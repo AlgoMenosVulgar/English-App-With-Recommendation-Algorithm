@@ -1,0 +1,1022 @@
+[
+  {
+    "texto": "house",
+    "traduccion": "casa",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "pescado",
+      "ciudad",
+      "mesa",
+      "juego",
+      "luna",
+      "teléfono",
+      "queso",
+      "estrella",
+      "casa",
+      "café"
+    ]
+  },
+  {
+    "texto": "dog",
+    "traduccion": "perro",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "carro",
+      "baño",
+      "perro",
+      "lápiz",
+      "puerta",
+      "teléfono",
+      "pantalón",
+      "luz",
+      "mercado",
+      "tienda"
+    ]
+  },
+  {
+    "texto": "car",
+    "traduccion": "carro",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "computadora",
+      "luna",
+      "queso",
+      "niño",
+      "radio",
+      "tienda",
+      "carne",
+      "libro",
+      "reloj",
+      "carro"
+    ]
+  },
+  {
+    "texto": "book",
+    "traduccion": "libro",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "huevo",
+      "perro",
+      "ventana",
+      "cocina",
+      "escuela",
+      "música",
+      "lápiz",
+      "zapato",
+      "libro",
+      "carro"
+    ]
+  },
+  {
+    "texto": "school",
+    "traduccion": "escuela",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "amigo",
+      "película",
+      "árbol",
+      "reloj",
+      "mesa",
+      "pescado",
+      "sal",
+      "luz",
+      "escuela",
+      "zapato"
+    ]
+  },
+  {
+    "texto": "computer",
+    "traduccion": "computadora",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "gato",
+      "computadora",
+      "televisor",
+      "puerta",
+      "habitación",
+      "café",
+      "lápiz",
+      "queso",
+      "zapato",
+      "perro"
+    ]
+  },
+  {
+    "texto": "chair",
+    "traduccion": "silla",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "queso",
+      "silla",
+      "pescado",
+      "baño",
+      "computadora",
+      "agua",
+      "lápiz",
+      "camisa",
+      "escuela",
+      "reloj"
+    ]
+  },
+  {
+    "texto": "phone",
+    "traduccion": "teléfono",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "madre",
+      "lápiz",
+      "teléfono",
+      "pelota",
+      "amigo",
+      "comida",
+      "cielo",
+      "mercado",
+      "mesa",
+      "gato"
+    ]
+  },
+  {
+    "texto": "table",
+    "traduccion": "mesa",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "árbol",
+      "escuela",
+      "luz",
+      "silla",
+      "césped",
+      "mesa",
+      "banano",
+      "televisor",
+      "camisa",
+      "queso"
+    ]
+  },
+  {
+    "texto": "window",
+    "traduccion": "ventana",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "ventana",
+      "fuego",
+      "padre",
+      "película",
+      "silla",
+      "pantalón",
+      "juego",
+      "libro",
+      "pescado",
+      "huevo"
+    ]
+  },
+  {
+    "texto": "door",
+    "traduccion": "puerta",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "camisa",
+      "puerta",
+      "mercado",
+      "cocina",
+      "fuego",
+      "tienda",
+      "luz",
+      "perro",
+      "padre",
+      "carro"
+    ]
+  },
+  {
+    "texto": "cat",
+    "traduccion": "gato",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "televisor",
+      "gato",
+      "escuela",
+      "zapato",
+      "bolígrafo",
+      "radio",
+      "pescado",
+      "carro",
+      "camisa",
+      "película"
+    ]
+  },
+  {
+    "texto": "child",
+    "traduccion": "niño",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "casa",
+      "juego",
+      "sol",
+      "niño",
+      "flor",
+      "cielo",
+      "mercado",
+      "zapato",
+      "padre",
+      "perro"
+    ]
+  },
+  {
+    "texto": "mother",
+    "traduccion": "madre",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "radio",
+      "camisa",
+      "perro",
+      "reloj",
+      "queso",
+      "puerta",
+      "cielo",
+      "luz",
+      "zapato",
+      "madre"
+    ]
+  },
+  {
+    "texto": "father",
+    "traduccion": "padre",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "camisa",
+      "habitación",
+      "tienda",
+      "padre",
+      "juego",
+      "casa",
+      "flor",
+      "madre",
+      "queso",
+      "pan"
+    ]
+  },
+  {
+    "texto": "friend",
+    "traduccion": "amigo",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "agua",
+      "película",
+      "zapato",
+      "baño",
+      "niño",
+      "edificio",
+      "amigo",
+      "reloj",
+      "libro",
+      "habitación"
+    ]
+  },
+  {
+    "texto": "apple",
+    "traduccion": "manzana",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "gato",
+      "leche",
+      "computadora",
+      "lápiz",
+      "agua",
+      "música",
+      "silla",
+      "manzana",
+      "luz",
+      "libro"
+    ]
+  },
+  {
+    "texto": "banana",
+    "traduccion": "banano",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "música",
+      "banano",
+      "luz",
+      "baño",
+      "ciudad",
+      "cuaderno",
+      "bolso",
+      "mesa",
+      "casa",
+      "habitación"
+    ]
+  },
+  {
+    "texto": "water",
+    "traduccion": "agua",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "computadora",
+      "amigo",
+      "calle",
+      "madre",
+      "agua",
+      "mesa",
+      "zapato",
+      "ciudad",
+      "césped",
+      "pantalón"
+    ]
+  },
+  {
+    "texto": "coffee",
+    "traduccion": "café",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "luz",
+      "banano",
+      "película",
+      "cocina",
+      "madre",
+      "radio",
+      "café",
+      "teléfono",
+      "gato",
+      "amigo"
+    ]
+  },
+  {
+    "texto": "city",
+    "traduccion": "ciudad",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "queso",
+      "madre",
+      "ciudad",
+      "zapato",
+      "habitación",
+      "televisor",
+      "juego",
+      "calle",
+      "reloj",
+      "baño"
+    ]
+  },
+  {
+    "texto": "street",
+    "traduccion": "calle",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "sol",
+      "mesa",
+      "estrella",
+      "cocina",
+      "fuego",
+      "calle",
+      "habitación",
+      "zapato",
+      "pantalón",
+      "carro"
+    ]
+  },
+  {
+    "texto": "building",
+    "traduccion": "edificio",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "ventana",
+      "computadora",
+      "zapato",
+      "ciudad",
+      "leche",
+      "amigo",
+      "edificio",
+      "pantalón",
+      "camisa",
+      "mesa"
+    ]
+  },
+  {
+    "texto": "kitchen",
+    "traduccion": "cocina",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "habitación",
+      "teléfono",
+      "televisor",
+      "café",
+      "comida",
+      "libro",
+      "casa",
+      "amigo",
+      "sol",
+      "cocina"
+    ]
+  },
+  {
+    "texto": "bedroom",
+    "traduccion": "habitación",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "luna",
+      "fuego",
+      "banano",
+      "puerta",
+      "bolso",
+      "sol",
+      "habitación",
+      "comida",
+      "computadora",
+      "carne"
+    ]
+  },
+  {
+    "texto": "bathroom",
+    "traduccion": "baño",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "ventana",
+      "calle",
+      "película",
+      "cocina",
+      "leche",
+      "café",
+      "perro",
+      "sombrero",
+      "baño",
+      "manzana"
+    ]
+  },
+  {
+    "texto": "market",
+    "traduccion": "mercado",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "mercado",
+      "carro",
+      "leche",
+      "padre",
+      "casa",
+      "lápiz",
+      "café",
+      "televisor",
+      "pantalón",
+      "cocina"
+    ]
+  },
+  {
+    "texto": "store",
+    "traduccion": "tienda",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "luz",
+      "teléfono",
+      "tienda",
+      "fuego",
+      "camisa",
+      "sal",
+      "gato",
+      "zapato",
+      "manzana",
+      "habitación"
+    ]
+  },
+  {
+    "texto": "bag",
+    "traduccion": "bolso",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "bolso",
+      "juego",
+      "computadora",
+      "habitación",
+      "radio",
+      "baño",
+      "amigo",
+      "pan",
+      "pelota",
+      "pantalón"
+    ]
+  },
+  {
+    "texto": "shoe",
+    "traduccion": "zapato",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "amigo",
+      "zapato",
+      "puerta",
+      "bolígrafo",
+      "estrella",
+      "comida",
+      "gato",
+      "luz",
+      "padre",
+      "radio"
+    ]
+  },
+  {
+    "texto": "shirt",
+    "traduccion": "camisa",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "zapato",
+      "reloj",
+      "camisa",
+      "película",
+      "flor",
+      "luna",
+      "juego",
+      "teléfono",
+      "amigo",
+      "sal"
+    ]
+  },
+  {
+    "texto": "pants",
+    "traduccion": "pantalón",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "huevo",
+      "cocina",
+      "césped",
+      "carne",
+      "tienda",
+      "pescado",
+      "cielo",
+      "puerta",
+      "pantalón",
+      "luz"
+    ]
+  },
+  {
+    "texto": "hat",
+    "traduccion": "sombrero",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "fuego",
+      "televisor",
+      "sombrero",
+      "gato",
+      "padre",
+      "luz",
+      "camisa",
+      "flor",
+      "cuaderno",
+      "leche"
+    ]
+  },
+  {
+    "texto": "pen",
+    "traduccion": "bolígrafo",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "pelota",
+      "bolígrafo",
+      "amigo",
+      "mercado",
+      "camisa",
+      "luz",
+      "sol",
+      "escuela",
+      "comida",
+      "banano"
+    ]
+  },
+  {
+    "texto": "pencil",
+    "traduccion": "lápiz",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "banano",
+      "teléfono",
+      "cocina",
+      "edificio",
+      "juego",
+      "escuela",
+      "gato",
+      "luz",
+      "lápiz",
+      "tienda"
+    ]
+  },
+  {
+    "texto": "notebook",
+    "traduccion": "cuaderno",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "sombrero",
+      "pan",
+      "tienda",
+      "juego",
+      "libro",
+      "ciudad",
+      "gato",
+      "amigo",
+      "cuaderno",
+      "fuego"
+    ]
+  },
+  {
+    "texto": "clock",
+    "traduccion": "reloj",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "reloj",
+      "comida",
+      "padre",
+      "sal",
+      "baño",
+      "estrella",
+      "cocina",
+      "queso",
+      "madre",
+      "cuaderno"
+    ]
+  },
+  {
+    "texto": "television",
+    "traduccion": "televisor",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "mercado",
+      "libro",
+      "flor",
+      "calle",
+      "ciudad",
+      "casa",
+      "perro",
+      "queso",
+      "televisor",
+      "bolso"
+    ]
+  },
+  {
+    "texto": "radio",
+    "traduccion": "radio",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "luz",
+      "ciudad",
+      "radio",
+      "árbol",
+      "ventana",
+      "cielo",
+      "pescado",
+      "calle",
+      "música",
+      "césped"
+    ]
+  },
+  {
+    "texto": "music",
+    "traduccion": "música",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "pescado",
+      "estrella",
+      "edificio",
+      "comida",
+      "sol",
+      "banano",
+      "amigo",
+      "césped",
+      "carne",
+      "música"
+    ]
+  },
+  {
+    "texto": "movie",
+    "traduccion": "película",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "luz",
+      "agua",
+      "sol",
+      "libro",
+      "césped",
+      "cuaderno",
+      "película",
+      "árbol",
+      "radio",
+      "zapato"
+    ]
+  },
+  {
+    "texto": "game",
+    "traduccion": "juego",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "juego",
+      "mesa",
+      "música",
+      "bolso",
+      "comida",
+      "tienda",
+      "cocina",
+      "padre",
+      "pelota",
+      "pescado"
+    ]
+  },
+  {
+    "texto": "ball",
+    "traduccion": "pelota",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "casa",
+      "bolígrafo",
+      "agua",
+      "perro",
+      "libro",
+      "comida",
+      "pelota",
+      "camisa",
+      "silla",
+      "amigo"
+    ]
+  },
+  {
+    "texto": "tree",
+    "traduccion": "árbol",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "tienda",
+      "habitación",
+      "ciudad",
+      "gato",
+      "puerta",
+      "lápiz",
+      "pantalón",
+      "árbol",
+      "fuego",
+      "manzana"
+    ]
+  },
+  {
+    "texto": "flower",
+    "traduccion": "flor",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "estrella",
+      "padre",
+      "lápiz",
+      "juego",
+      "amigo",
+      "escuela",
+      "camisa",
+      "flor",
+      "comida",
+      "leche"
+    ]
+  },
+  {
+    "texto": "grass",
+    "traduccion": "césped",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "césped",
+      "luna",
+      "estrella",
+      "lápiz",
+      "teléfono",
+      "mesa",
+      "camisa",
+      "edificio",
+      "banano",
+      "silla"
+    ]
+  },
+  {
+    "texto": "sky",
+    "traduccion": "cielo",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "película",
+      "banano",
+      "tienda",
+      "pan",
+      "cielo",
+      "sal",
+      "niño",
+      "comida",
+      "queso",
+      "bolso"
+    ]
+  },
+  {
+    "texto": "sun",
+    "traduccion": "sol",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "carne",
+      "carro",
+      "sol",
+      "bolso",
+      "flor",
+      "mercado",
+      "agua",
+      "estrella",
+      "reloj",
+      "café"
+    ]
+  },
+  {
+    "texto": "moon",
+    "traduccion": "luna",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "ventana",
+      "estrella",
+      "teléfono",
+      "habitación",
+      "banano",
+      "padre",
+      "pelota",
+      "bolso",
+      "luna",
+      "carro"
+    ]
+  },
+  {
+    "texto": "star",
+    "traduccion": "estrella",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "baño",
+      "cielo",
+      "bolso",
+      "ciudad",
+      "música",
+      "mercado",
+      "árbol",
+      "estrella",
+      "carne",
+      "cuaderno"
+    ]
+  },
+  {
+    "texto": "fire",
+    "traduccion": "fuego",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "fuego",
+      "música",
+      "ciudad",
+      "tienda",
+      "cielo",
+      "televisor",
+      "juego",
+      "teléfono",
+      "baño",
+      "libro"
+    ]
+  },
+  {
+    "texto": "light",
+    "traduccion": "luz",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "calle",
+      "árbol",
+      "comida",
+      "sol",
+      "pantalón",
+      "teléfono",
+      "bolígrafo",
+      "carro",
+      "césped",
+      "luz"
+    ]
+  },
+  {
+    "texto": "food",
+    "traduccion": "comida",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "casa",
+      "padre",
+      "agua",
+      "habitación",
+      "flor",
+      "manzana",
+      "césped",
+      "baño",
+      "comida",
+      "cielo"
+    ]
+  },
+  {
+    "texto": "bread",
+    "traduccion": "pan",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "carne",
+      "edificio",
+      "perro",
+      "bolso",
+      "comida",
+      "pantalón",
+      "estrella",
+      "música",
+      "pan",
+      "ventana"
+    ]
+  },
+  {
+    "texto": "milk",
+    "traduccion": "leche",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "padre",
+      "leche",
+      "película",
+      "edificio",
+      "pantalón",
+      "escuela",
+      "ventana",
+      "radio",
+      "pescado",
+      "cocina"
+    ]
+  },
+  {
+    "texto": "egg",
+    "traduccion": "huevo",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "edificio",
+      "carne",
+      "ciudad",
+      "habitación",
+      "perro",
+      "bolso",
+      "cocina",
+      "huevo",
+      "silla",
+      "agua"
+    ]
+  },
+  {
+    "texto": "cheese",
+    "traduccion": "queso",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "niño",
+      "árbol",
+      "libro",
+      "casa",
+      "perro",
+      "madre",
+      "cocina",
+      "flor",
+      "edificio",
+      "queso"
+    ]
+  },
+  {
+    "texto": "meat",
+    "traduccion": "carne",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "bolso",
+      "flor",
+      "zapato",
+      "baño",
+      "agua",
+      "leche",
+      "mercado",
+      "café",
+      "estrella",
+      "carne"
+    ]
+  },
+  {
+    "texto": "fish",
+    "traduccion": "pescado",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "libro",
+      "perro",
+      "pelota",
+      "pescado",
+      "silla",
+      "sal",
+      "calle",
+      "película",
+      "manzana",
+      "juego"
+    ]
+  },
+  {
+    "texto": "salt",
+    "traduccion": "sal",
+    "categoria": "Nouns / Sustantivos",
+    "opciones": [
+      "carne",
+      "césped",
+      "sal",
+      "huevo",
+      "árbol",
+      "gato",
+      "amigo",
+      "televisor",
+      "estrella",
+      "perro"
+    ]
+  }
+]

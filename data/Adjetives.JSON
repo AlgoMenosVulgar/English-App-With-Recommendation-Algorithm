@@ -1,0 +1,444 @@
+[
+    {
+        "texto": "this",
+        "traduccion": "esto",
+        "categoria": "Demonstratives",
+        "opciones": [
+            "esto",
+            "eso",
+            "estos",
+            "esos",
+            "eso",
+            "estos",
+            "esos",
+            "eso",
+            "estos",
+            "esos"
+        ]
+    },
+    {
+        "texto": "that",
+        "traduccion": "eso",
+        "categoria": "Demonstratives",
+        "opciones": [
+            "eso",
+            "esto",
+            "estos",
+            "esos",
+            "esto",
+            "estos",
+            "esos",
+            "esto",
+            "estos",
+            "esos"
+        ]
+    },
+    {
+        "texto": "these",
+        "traduccion": "estos",
+        "categoria": "Demonstratives",
+        "opciones": [
+            "estos",
+            "esto",
+            "eso",
+            "esos",
+            "esto",
+            "eso",
+            "esos",
+            "esto",
+            "eso",
+            "esos"
+        ]
+    },
+    {
+        "texto": "those",
+        "traduccion": "esos",
+        "categoria": "Demonstratives",
+        "opciones": [
+            "esos",
+            "esto",
+            "eso",
+            "estos",
+            "esto",
+            "eso",
+            "estos",
+            "esto",
+            "eso",
+            "estos"
+        ]
+    },
+    {
+        "texto": "is",
+        "traduccion": "es",
+        "categoria": "To_be",
+        "opciones": [
+            "es",
+            "son",
+            "soy",
+            "es",
+            "son",
+            "soy",
+            "es",
+            "son",
+            "soy",
+            "es"
+        ]
+    },
+    {
+        "texto": "are",
+        "traduccion": "son",
+        "categoria": "To_be",
+        "opciones": [
+            "son",
+            "es",
+            "soy",
+            "es",
+            "son",
+            "soy",
+            "es",
+            "son",
+            "soy",
+            "es"
+        ]
+    },
+    {
+        "texto": "am",
+        "traduccion": "soy",
+        "categoria": "To_be",
+        "opciones": [
+            "soy",
+            "es",
+            "son",
+            "es",
+            "son",
+            "soy",
+            "es",
+            "son",
+            "soy",
+            "es"
+        ]
+    },
+    {
+        "texto": "not",
+        "traduccion": "no",
+        "categoria": "Negation",
+        "opciones": [
+            "no",
+            "no es",
+            "no son",
+            "no",
+            "no es",
+            "no son",
+            "no",
+            "no es",
+            "no son",
+            "no"
+        ]
+    },
+    {
+        "texto": "isn't",
+        "traduccion": "no es",
+        "categoria": "Negation",
+        "opciones": [
+            "no es",
+            "no",
+            "no son",
+            "no",
+            "no son",
+            "no es",
+            "no",
+            "no son",
+            "no es",
+            "no"
+        ]
+    },
+    {
+        "texto": "aren't",
+        "traduccion": "no son",
+        "categoria": "Negation",
+        "opciones": [
+            "no son",
+            "no es",
+            "no",
+            "no es",
+            "no son",
+            "no",
+            "no es",
+            "no son",
+            "no",
+            "no es"
+        ]
+    },
+    {
+        "texto": "no",
+        "traduccion": "no",
+        "categoria": "Negation",
+        "opciones": [
+            "no",
+            "no es",
+            "no son",
+            "no",
+            "no es",
+            "no son",
+            "no",
+            "no es",
+            "no son",
+            "no"
+        ]
+    },
+    {
+        "texto": "my",
+        "traduccion": "mi",
+        "categoria": "Possessive_adjectives",
+        "opciones": [
+            "mi",
+            "tu",
+            "su",
+            "nuestro",
+            "su",
+            "mi",
+            "tu",
+            "su",
+            "nuestro",
+            "su"
+        ]
+    },
+    {
+        "texto": "your",
+        "traduccion": "tu",
+        "categoria": "Possessive_adjectives",
+        "opciones": [
+            "tu",
+            "mi",
+            "su",
+            "nuestro",
+            "su",
+            "mi",
+            "su",
+            "nuestro",
+            "tu",
+            "su"
+        ]
+    },
+    {
+        "texto": "his",
+        "traduccion": "su",
+        "categoria": "Possessive_adjectives",
+        "opciones": [
+            "su",
+            "mi",
+            "tu",
+            "nuestro",
+            "su",
+            "mi",
+            "tu",
+            "nuestro",
+            "su",
+            "mi"
+        ]
+    },
+    {
+        "texto": "her",
+        "traduccion": "su",
+        "categoria": "Possessive_adjectives",
+        "opciones": [
+            "su",
+            "mi",
+            "tu",
+            "nuestro",
+            "su",
+            "mi",
+            "tu",
+            "nuestro",
+            "su",
+            "mi"
+        ]
+    },
+    {
+        "texto": "our",
+        "traduccion": "nuestro",
+        "categoria": "Possessive_adjectives",
+        "opciones": [
+            "nuestro",
+            "mi",
+            "tu",
+            "su",
+            "mi",
+            "tu",
+            "su",
+            "nuestro",
+            "su",
+            "mi"
+        ]
+    },
+    {
+        "texto": "their",
+        "traduccion": "su",
+        "categoria": "Possessive_adjectives",
+        "opciones": [
+            "su",
+            "mi",
+            "tu",
+            "nuestro",
+            "mi",
+            "tu",
+            "nuestro",
+            "su",
+            "mi",
+            "tu"
+        ]
+    },
+    {
+        "texto": "its",
+        "traduccion": "su",
+        "categoria": "Possessive_adjectives",
+        "opciones": [
+            "su",
+            "mi",
+            "tu",
+            "nuestro",
+            "mi",
+            "tu",
+            "nuestro",
+            "su",
+            "mi",
+            "tu"
+        ]
+    },
+    {
+        "texto": "mine",
+        "traduccion": "mío",
+        "categoria": "Possessive_pronouns",
+        "opciones": [
+            "mío",
+            "tuyo",
+            "suya",
+            "nuestro",
+            "suyo",
+            "tuyo",
+            "suya",
+            "nuestro",
+            "suyo",
+            "tuyo"
+        ]
+    },
+    {
+        "texto": "yours",
+        "traduccion": "tuyo",
+        "categoria": "Possessive_pronouns",
+        "opciones": [
+            "tuyo",
+            "mío",
+            "suya",
+            "nuestro",
+            "suyo",
+            "mío",
+            "suya",
+            "nuestro",
+            "suyo",
+            "mío"
+        ]
+    },
+    {
+        "texto": "hers",
+        "traduccion": "suya",
+        "categoria": "Possessive_pronouns",
+        "opciones": [
+            "suya",
+            "mío",
+            "tuyo",
+            "nuestro",
+            "suyo",
+            "mío",
+            "tuyo",
+            "nuestro",
+            "suyo",
+            "mío"
+        ]
+    },
+    {
+        "texto": "ours",
+        "traduccion": "nuestro",
+        "categoria": "Possessive_pronouns",
+        "opciones": [
+            "nuestro",
+            "mío",
+            "tuyo",
+            "suya",
+            "suyo",
+            "mío",
+            "tuyo",
+            "suya",
+            "suyo",
+            "mío"
+        ]
+    },
+    {
+        "texto": "theirs",
+        "traduccion": "suyo",
+        "categoria": "Possessive_pronouns",
+        "opciones": [
+            "suyo",
+            "mío",
+            "tuyo",
+            "nuestro",
+            "suya",
+            "mío",
+            "tuyo",
+            "nuestro",
+            "suya",
+            "mío"
+        ]
+    },
+    {
+        "texto": "what",
+        "traduccion": "qué",
+        "categoria": "Questions",
+        "opciones": [
+            "qué",
+            "dónde",
+            "sí",
+            "qué",
+            "dónde",
+            "sí",
+            "qué",
+            "dónde",
+            "sí",
+            "qué"
+        ]
+    },
+    {
+        "texto": "where",
+        "traduccion": "dónde",
+        "categoria": "Questions",
+        "opciones": [
+            "dónde",
+            "qué",
+            "sí",
+            "dónde",
+            "qué",
+            "sí",
+            "dónde",
+            "qué",
+            "sí",
+            "dónde"
+        ]
+    },
+    {
+        "texto": "yes",
+        "traduccion": "sí",
+        "categoria": "Questions",
+        "opciones": [
+            "sí",
+            "qué",
+            "dónde",
+            "sí",
+            "qué",
+            "dónde",
+            "sí",
+            "qué",
+            "dónde",
+            "sí"
+        ]
+    }
+]

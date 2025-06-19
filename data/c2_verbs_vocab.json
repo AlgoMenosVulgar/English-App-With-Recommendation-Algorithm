@@ -1,0 +1,1022 @@
+[
+  {
+    "texto": "ask",
+    "traduccion": "preguntar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "preguntar",
+      "estudiar",
+      "pagar",
+      "esperar",
+      "oír",
+      "jugar con",
+      "pedir prestado",
+      "dormir",
+      "terminar",
+      "abrir"
+    ]
+  },
+  {
+    "texto": "be",
+    "traduccion": "ser/estar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "ser/estar",
+      "trabajar",
+      "ayudar",
+      "pagar",
+      "elegir",
+      "mover",
+      "apagar",
+      "llamar",
+      "reír",
+      "parar"
+    ]
+  },
+  {
+    "texto": "call",
+    "traduccion": "llamar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "llamar",
+      "pedir prestado",
+      "escribir",
+      "comer",
+      "estudiar",
+      "encontrar",
+      "reír",
+      "desear",
+      "tomar",
+      "leer"
+    ]
+  },
+  {
+    "texto": "can",
+    "traduccion": "poder",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "poder",
+      "parar",
+      "hablar",
+      "encontrar",
+      "ir",
+      "correr",
+      "ver",
+      "tener",
+      "llamar",
+      "venir"
+    ]
+  },
+  {
+    "texto": "come",
+    "traduccion": "venir",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "venir",
+      "encontrar",
+      "pagar",
+      "pedir",
+      "leer",
+      "oír",
+      "sentarse",
+      "ser/estar",
+      "trabajar",
+      "gustar"
+    ]
+  },
+  {
+    "texto": "do",
+    "traduccion": "hacer",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "hacer",
+      "ayudar",
+      "comprar",
+      "gustar",
+      "correr",
+      "jugar",
+      "limpiar",
+      "beber",
+      "encender",
+      "elegir"
+    ]
+  },
+  {
+    "texto": "drink",
+    "traduccion": "beber",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "beber",
+      "llamar",
+      "tocar",
+      "hacer",
+      "leer",
+      "encontrar",
+      "gustar",
+      "ayudar",
+      "reír",
+      "oír"
+    ]
+  },
+  {
+    "texto": "eat",
+    "traduccion": "comer",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "comer",
+      "gustar",
+      "vivir",
+      "elegir",
+      "venir",
+      "jugar",
+      "beber",
+      "llegar",
+      "ayudar",
+      "mover"
+    ]
+  },
+  {
+    "texto": "go",
+    "traduccion": "ir",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "ir",
+      "pedir prestado",
+      "trabajar",
+      "comer",
+      "pedir",
+      "llamar",
+      "estudiar",
+      "llegar",
+      "mirar",
+      "encender"
+    ]
+  },
+  {
+    "texto": "have",
+    "traduccion": "tener",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "tener",
+      "sujetar",
+      "saber",
+      "encontrar",
+      "escribir",
+      "correr",
+      "esperar",
+      "apagar",
+      "comer",
+      "limpiar"
+    ]
+  },
+  {
+    "texto": "hear",
+    "traduccion": "oír",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "oír",
+      "vivir",
+      "parar",
+      "escribir",
+      "encender",
+      "pedir",
+      "pedir prestado",
+      "sonreír",
+      "elegir",
+      "dormir"
+    ]
+  },
+  {
+    "texto": "help",
+    "traduccion": "ayudar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "ayudar",
+      "jugar con",
+      "estudiar",
+      "oír",
+      "ir",
+      "aprender",
+      "cantar",
+      "saber",
+      "dormir",
+      "llamar"
+    ]
+  },
+  {
+    "texto": "know",
+    "traduccion": "saber",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "saber",
+      "pedir",
+      "oír",
+      "beber",
+      "jugar",
+      "empezar",
+      "ayudar",
+      "estudiar",
+      "comer",
+      "hablar"
+    ]
+  },
+  {
+    "texto": "like",
+    "traduccion": "gustar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "gustar",
+      "saber",
+      "ayudar",
+      "tocar",
+      "recordar",
+      "pagar",
+      "elegir",
+      "pedir",
+      "ir",
+      "correr"
+    ]
+  },
+  {
+    "texto": "live",
+    "traduccion": "vivir",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "vivir",
+      "sonreír",
+      "gustar",
+      "jugar",
+      "pensar",
+      "limpiar",
+      "ver",
+      "esperar",
+      "empezar",
+      "ir"
+    ]
+  },
+  {
+    "texto": "look",
+    "traduccion": "mirar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "mirar",
+      "saber",
+      "abrir",
+      "jugar",
+      "preguntar",
+      "escribir",
+      "desear",
+      "encontrar",
+      "elegir",
+      "sentarse"
+    ]
+  },
+  {
+    "texto": "make",
+    "traduccion": "hacer",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "hacer",
+      "esperar",
+      "ayudar",
+      "limpiar",
+      "ser/estar",
+      "escribir",
+      "jugar",
+      "llamar",
+      "leer",
+      "ir"
+    ]
+  },
+  {
+    "texto": "meet",
+    "traduccion": "encontrar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "encontrar",
+      "pertenecer",
+      "trabajar",
+      "recordar",
+      "dormir",
+      "tener",
+      "leer",
+      "pensar",
+      "pagar",
+      "llegar"
+    ]
+  },
+  {
+    "texto": "open",
+    "traduccion": "abrir",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "abrir",
+      "apagar",
+      "trabajar",
+      "comer",
+      "pedir prestado",
+      "recordar",
+      "elegir",
+      "hablar",
+      "escribir",
+      "llamar"
+    ]
+  },
+  {
+    "texto": "play",
+    "traduccion": "jugar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "jugar",
+      "tocar",
+      "pensar",
+      "empezar",
+      "hablar",
+      "tener",
+      "reír",
+      "poder",
+      "encender",
+      "terminar"
+    ]
+  },
+  {
+    "texto": "read",
+    "traduccion": "leer",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "leer",
+      "saber",
+      "sujetar",
+      "tocar",
+      "esperar",
+      "pertenecer",
+      "ir",
+      "sonreír",
+      "jugar",
+      "trabajar"
+    ]
+  },
+  {
+    "texto": "see",
+    "traduccion": "ver",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "ver",
+      "saber",
+      "ir",
+      "encontrar",
+      "aprender",
+      "tener",
+      "estudiar",
+      "mover",
+      "empezar",
+      "escribir"
+    ]
+  },
+  {
+    "texto": "sing",
+    "traduccion": "cantar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "cantar",
+      "beber",
+      "recordar",
+      "hacer",
+      "elegir",
+      "llamar",
+      "encontrar",
+      "limpiar",
+      "oír",
+      "gustar"
+    ]
+  },
+  {
+    "texto": "sit",
+    "traduccion": "sentarse",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "sentarse",
+      "sonreír",
+      "mirar",
+      "querer",
+      "beber",
+      "empezar",
+      "comer",
+      "apagar",
+      "pedir",
+      "estudiar"
+    ]
+  },
+  {
+    "texto": "sleep",
+    "traduccion": "dormir",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "dormir",
+      "trabajar",
+      "jugar con",
+      "elegir",
+      "reír",
+      "empezar",
+      "jugar",
+      "sonreír",
+      "sentarse",
+      "escribir"
+    ]
+  },
+  {
+    "texto": "speak",
+    "traduccion": "hablar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "hablar",
+      "pensar",
+      "pertenecer",
+      "llamar",
+      "tener",
+      "aprender",
+      "apagar",
+      "reír",
+      "tocar",
+      "vivir"
+    ]
+  },
+  {
+    "texto": "study",
+    "traduccion": "estudiar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "estudiar",
+      "dormir",
+      "tomar",
+      "reír",
+      "mirar",
+      "ver",
+      "desear",
+      "encender",
+      "ser/estar",
+      "sentarse"
+    ]
+  },
+  {
+    "texto": "take",
+    "traduccion": "tomar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "tomar",
+      "comprar",
+      "leer",
+      "mirar",
+      "encontrar",
+      "cantar",
+      "estudiar",
+      "esperar",
+      "gustar",
+      "ir"
+    ]
+  },
+  {
+    "texto": "talk",
+    "traduccion": "hablar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "hablar",
+      "comprar",
+      "saber",
+      "comer",
+      "correr",
+      "pedir",
+      "recordar",
+      "oír",
+      "vivir",
+      "jugar con"
+    ]
+  },
+  {
+    "texto": "think",
+    "traduccion": "pensar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "pensar",
+      "aprender",
+      "ver",
+      "beber",
+      "mover",
+      "dormir",
+      "terminar",
+      "trabajar",
+      "desear",
+      "mirar"
+    ]
+  },
+  {
+    "texto": "travel",
+    "traduccion": "viajar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "viajar",
+      "elegir",
+      "sentarse",
+      "pagar",
+      "pedir",
+      "llegar",
+      "recordar",
+      "empezar",
+      "saber",
+      "escribir"
+    ]
+  },
+  {
+    "texto": "want",
+    "traduccion": "querer",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "querer",
+      "vivir",
+      "mover",
+      "jugar",
+      "parar",
+      "venir",
+      "llegar",
+      "sujetar",
+      "oír",
+      "pedir prestado"
+    ]
+  },
+  {
+    "texto": "work",
+    "traduccion": "trabajar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "trabajar",
+      "oír",
+      "pensar",
+      "desear",
+      "estudiar",
+      "tomar",
+      "limpiar",
+      "reír",
+      "dormir",
+      "mirar"
+    ]
+  },
+  {
+    "texto": "write",
+    "traduccion": "escribir",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "escribir",
+      "viajar",
+      "saber",
+      "beber",
+      "mover",
+      "pedir",
+      "correr",
+      "gustar",
+      "llegar",
+      "hablar"
+    ]
+  },
+  {
+    "texto": "run",
+    "traduccion": "correr",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "correr",
+      "comprar",
+      "sujetar",
+      "gustar",
+      "mirar",
+      "tener",
+      "tocar",
+      "hacer",
+      "beber",
+      "estudiar"
+    ]
+  },
+  {
+    "texto": "buy",
+    "traduccion": "comprar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "comprar",
+      "venir",
+      "trabajar",
+      "tener",
+      "ver",
+      "jugar",
+      "terminar",
+      "elegir",
+      "apagar",
+      "comer"
+    ]
+  },
+  {
+    "texto": "find",
+    "traduccion": "encontrar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "encontrar",
+      "hablar",
+      "mover",
+      "gustar",
+      "parar",
+      "empezar",
+      "sentarse",
+      "oír",
+      "ver",
+      "encender"
+    ]
+  },
+  {
+    "texto": "clean",
+    "traduccion": "limpiar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "limpiar",
+      "encontrar",
+      "esperar",
+      "sentarse",
+      "empezar",
+      "tener",
+      "mirar",
+      "llamar",
+      "pedir",
+      "cantar"
+    ]
+  },
+  {
+    "texto": "remember",
+    "traduccion": "recordar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "recordar",
+      "llegar",
+      "pedir prestado",
+      "reír",
+      "saber",
+      "pagar",
+      "esperar",
+      "jugar",
+      "tomar",
+      "estudiar"
+    ]
+  },
+  {
+    "texto": "stop",
+    "traduccion": "parar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "parar",
+      "oír",
+      "sentarse",
+      "encontrar",
+      "tocar",
+      "ayudar",
+      "tener",
+      "gustar",
+      "pedir",
+      "correr"
+    ]
+  },
+  {
+    "texto": "learn",
+    "traduccion": "aprender",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "aprender",
+      "correr",
+      "desear",
+      "comer",
+      "llegar",
+      "esperar",
+      "recordar",
+      "hablar",
+      "mirar",
+      "dormir"
+    ]
+  },
+  {
+    "texto": "arrive",
+    "traduccion": "llegar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "llegar",
+      "llamar",
+      "gustar",
+      "ser/estar",
+      "correr",
+      "querer",
+      "leer",
+      "jugar con",
+      "apagar",
+      "saber"
+    ]
+  },
+  {
+    "texto": "turn off",
+    "traduccion": "apagar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "apagar",
+      "oír",
+      "llegar",
+      "jugar con",
+      "pagar",
+      "abrir",
+      "correr",
+      "pertenecer",
+      "vivir",
+      "tocar"
+    ]
+  },
+  {
+    "texto": "turn on",
+    "traduccion": "encender",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "encender",
+      "parar",
+      "mover",
+      "correr",
+      "sonreír",
+      "escribir",
+      "vivir",
+      "ver",
+      "querer",
+      "mirar"
+    ]
+  },
+  {
+    "texto": "ask for",
+    "traduccion": "pedir",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "pedir",
+      "encontrar",
+      "comer",
+      "estudiar",
+      "hablar",
+      "pedir prestado",
+      "querer",
+      "tener",
+      "gustar",
+      "jugar con"
+    ]
+  },
+  {
+    "texto": "hold",
+    "traduccion": "sujetar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "sujetar",
+      "saber",
+      "elegir",
+      "apagar",
+      "sentarse",
+      "desear",
+      "encontrar",
+      "llamar",
+      "ayudar",
+      "encender"
+    ]
+  },
+  {
+    "texto": "wait",
+    "traduccion": "esperar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "esperar",
+      "querer",
+      "abrir",
+      "sujetar",
+      "hablar",
+      "desear",
+      "aprender",
+      "jugar con",
+      "limpiar",
+      "pertenecer"
+    ]
+  },
+  {
+    "texto": "wish",
+    "traduccion": "desear",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "desear",
+      "gustar",
+      "poder",
+      "cantar",
+      "encender",
+      "encontrar",
+      "venir",
+      "parar",
+      "sentarse",
+      "ir"
+    ]
+  },
+  {
+    "texto": "belong",
+    "traduccion": "pertenecer",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "pertenecer",
+      "preguntar",
+      "trabajar",
+      "recordar",
+      "reír",
+      "ver",
+      "parar",
+      "tener",
+      "poder",
+      "desear"
+    ]
+  },
+  {
+    "texto": "borrow",
+    "traduccion": "pedir prestado",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "pedir prestado",
+      "poder",
+      "pagar",
+      "encender",
+      "elegir",
+      "estudiar",
+      "sonreír",
+      "ir",
+      "sentarse",
+      "terminar"
+    ]
+  },
+  {
+    "texto": "choose",
+    "traduccion": "elegir",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "elegir",
+      "cantar",
+      "aprender",
+      "empezar",
+      "querer",
+      "ir",
+      "tocar",
+      "correr",
+      "encender",
+      "jugar"
+    ]
+  },
+  {
+    "texto": "pay",
+    "traduccion": "pagar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "pagar",
+      "esperar",
+      "apagar",
+      "aprender",
+      "trabajar",
+      "querer",
+      "tocar",
+      "comer",
+      "jugar",
+      "viajar"
+    ]
+  },
+  {
+    "texto": "start",
+    "traduccion": "empezar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "empezar",
+      "comer",
+      "jugar",
+      "abrir",
+      "parar",
+      "escribir",
+      "jugar con",
+      "dormir",
+      "pedir",
+      "gustar"
+    ]
+  },
+  {
+    "texto": "finish",
+    "traduccion": "terminar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "terminar",
+      "saber",
+      "aprender",
+      "querer",
+      "ayudar",
+      "vivir",
+      "poder",
+      "beber",
+      "parar",
+      "hablar"
+    ]
+  },
+  {
+    "texto": "smile",
+    "traduccion": "sonreír",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "sonreír",
+      "sentarse",
+      "terminar",
+      "reír",
+      "mirar",
+      "tener",
+      "jugar con",
+      "aprender",
+      "recordar",
+      "abrir"
+    ]
+  },
+  {
+    "texto": "laugh",
+    "traduccion": "reír",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "reír",
+      "gustar",
+      "abrir",
+      "parar",
+      "ayudar",
+      "empezar",
+      "preguntar",
+      "tener",
+      "cantar",
+      "correr"
+    ]
+  },
+  {
+    "texto": "touch",
+    "traduccion": "tocar",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "tocar",
+      "gustar",
+      "cantar",
+      "hacer",
+      "comer",
+      "apagar",
+      "esperar",
+      "llegar",
+      "leer",
+      "oír"
+    ]
+  },
+  {
+    "texto": "move",
+    "traduccion": "mover",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "mover",
+      "dormir",
+      "mirar",
+      "desear",
+      "ayudar",
+      "leer",
+      "pedir",
+      "apagar",
+      "trabajar",
+      "ir"
+    ]
+  },
+  {
+    "texto": "watch",
+    "traduccion": "ver",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "ver",
+      "tener",
+      "escribir",
+      "desear",
+      "leer",
+      "reír",
+      "viajar",
+      "encontrar",
+      "jugar con",
+      "ir"
+    ]
+  },
+  {
+    "texto": "play with",
+    "traduccion": "jugar con",
+    "categoria": "Verbos / C2",
+    "opciones": [
+      "jugar con",
+      "mirar",
+      "cantar",
+      "vivir",
+      "pertenecer",
+      "venir",
+      "sujetar",
+      "dormir",
+      "estudiar",
+      "correr"
+    ]
+  }
+]

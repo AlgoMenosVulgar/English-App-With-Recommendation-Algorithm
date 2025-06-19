@@ -1,0 +1,699 @@
+[
+  {
+    "texto": "¿Dónde está la estación?",
+    "traduccion": "Where is the station?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "Where is the station?",
+      "Why is the station?",
+      "What is the station?",
+      "Where are the station?",
+      "How is the station?",
+      "When is the station?",
+      "Where it is the station?",
+      "Where the station is?",
+      "Where is station?",
+      "Who is the station?"
+    ]
+  },
+  {
+    "texto": "¿Qué haces después de la escuela?",
+    "traduccion": "What do you do after school?",
+    "categoria": "Preguntas Wh y Do / A1-B1",
+    "opciones": [
+      "What do you do after school?",
+      "When do you do after school?",
+      "What does you do after school?",
+      "Where do you do after school?",
+      "What do you does after school?",
+      "What do you do after schools?",
+      "What do you doing after school?",
+      "What do you do at school?",
+      "Why do you do after school?",
+      "What do you do after school?"
+    ]
+  },
+  {
+    "texto": "¿Quién es tu maestro?",
+    "traduccion": "Who is your teacher?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "Who is your teacher?",
+      "What is your teacher?",
+      "Who are your teacher?",
+      "Who is your teachers?",
+      "Where is your teacher?",
+      "Who is your master?",
+      "How is your teacher?",
+      "Who is your teacher?",
+      "Why is your teacher?",
+      "Who is your teacher?"
+    ]
+  },
+  {
+    "texto": "¿Por qué ella no viene a la fiesta?",
+    "traduccion": "Why doesn't she come to the party?",
+    "categoria": "Preguntas Wh y Do / A1-B1",
+    "opciones": [
+      "Why doesn't she come to the party?",
+      "Where doesn't she come to the party?",
+      "Why do she not come to the party?",
+      "Why doesn't she goes to the party?",
+      "What doesn't she come to the party?",
+      "Why does she not come to the party?",
+      "Why doesn't she come party?",
+      "When doesn't she come to the party?",
+      "Why she doesn't come to the party?",
+      "Why she don't come to the party?"
+    ]
+  },
+  {
+    "texto": "¿Cómo te llamas?",
+    "traduccion": "What is your name?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "What is your name?",
+      "Who is your name?",
+      "How is your name?",
+      "Where is your name?",
+      "Why is your name?",
+      "What your name is?",
+      "What your name are?",
+      "What is your names?",
+      "What are your name?",
+      "What do you name?"
+    ]
+  },
+  {
+    "texto": "¿Cuándo empiezas a trabajar?",
+    "traduccion": "When do you start working?",
+    "categoria": "Preguntas Wh y Do / A1-B1",
+    "opciones": [
+      "When do you start working?",
+      "Where do you start working?",
+      "When do you starts working?",
+      "When does you start working?",
+      "When do you start work?",
+      "When do you starting working?",
+      "When you start working?",
+      "When does you starts working?",
+      "Why do you start working?",
+      "When do you work?"
+    ]
+  },
+  {
+    "texto": "¿Es este tu libro?",
+    "traduccion": "Is this your book?",
+    "categoria": "Posesivos y Demostrativos / A1-B1",
+    "opciones": [
+      "Is this your book?",
+      "Is this yours book?",
+      "Is this your books?",
+      "Is this your booklet?",
+      "Are this your book?",
+      "Is this your notebook?",
+      "Is this your booklets?",
+      "Is this yours booklet?",
+      "Is this your booklet?",
+      "Is this your books?"
+    ]
+  },
+  {
+    "texto": "¿Son estas tus llaves?",
+    "traduccion": "Are these your keys?",
+    "categoria": "Posesivos y Demostrativos / A1-B1",
+    "opciones": [
+      "Are these your keys?",
+      "Are this your keys?",
+      "Are these your key?",
+      "Are those your keys?",
+      "Is these your keys?",
+      "Are these yours keys?",
+      "Are these her keys?",
+      "Are these mine keys?",
+      "Are these our keys?",
+      "Are these your keyses?"
+    ]
+  },
+  {
+    "texto": "¿Dónde vive tu hermano?",
+    "traduccion": "Where does your brother live?",
+    "categoria": "Preguntas Wh y Do / A1-B1",
+    "opciones": [
+      "Where does your brother live?",
+      "Where do your brother live?",
+      "Where your brother lives?",
+      "Where does your brother lives?",
+      "Where your brother live?",
+      "Where your brother live?",
+      "Where does your brother live at?",
+      "Where do your brother lives?",
+      "Where do your brothers live?",
+      "Where your brothers live?"
+    ]
+  },
+  {
+    "texto": "¿Por qué estás triste?",
+    "traduccion": "Why are you sad?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "Why are you sad?",
+      "When are you sad?",
+      "Why is you sad?",
+      "Why do you sad?",
+      "Why are you glad?",
+      "Why are you sad?",
+      "Why are you happy?",
+      "Why are you mad?",
+      "Why is you happy?",
+      "Why are you sad?"
+    ]
+  },
+  {
+    "texto": "¿Quiénes son ellos?",
+    "traduccion": "Who are they?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "Who are they?",
+      "Who is they?",
+      "Who are them?",
+      "Who they are?",
+      "Who is them?",
+      "What are they?",
+      "Where are they?",
+      "Who is their?",
+      "Who are there?",
+      "Who are theys?"
+    ]
+  },
+  {
+    "texto": "¿Dónde están mis zapatos?",
+    "traduccion": "Where are my shoes?",
+    "categoria": "Posesivos / A1-B1",
+    "opciones": [
+      "Where are my shoes?",
+      "Where is my shoes?",
+      "Where are mine shoes?",
+      "Where are my shoe?",
+      "Where are your shoes?",
+      "Where is my shoe?",
+      "Where my shoes are?",
+      "Where are his shoes?",
+      "Where are her shoes?",
+      "Where are their shoes?"
+    ]
+  },
+  {
+    "texto": "¿Qué quieres comer?",
+    "traduccion": "What do you want to eat?",
+    "categoria": "Preguntas Wh y Do / A1-B1",
+    "opciones": [
+      "What do you want to eat?",
+      "What you want to eat?",
+      "What does you want to eat?",
+      "What do you wants to eat?",
+      "What do you want eat?",
+      "What do you eat?",
+      "What do you want eat?",
+      "What do you wants eat?",
+      "What do you wanting to eat?",
+      "What does you wants to eat?"
+    ]
+  },
+  {
+    "texto": "¿Es ella tu hermana?",
+    "traduccion": "Is she your sister?",
+    "categoria": "Posesivos / A1-B1",
+    "opciones": [
+      "Is she your sister?",
+      "Is she yours sister?",
+      "Is she your sisters?",
+      "Is she your sister?",
+      "Is she your brother?",
+      "Is she your sister?",
+      "Is she hers sister?",
+      "Is she your sister?",
+      "Is she their sister?",
+      "Is she your sister?"
+    ]
+  },
+  {
+    "texto": "¿Cuándo es tu cumpleaños?",
+    "traduccion": "When is your birthday?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "When is your birthday?",
+      "What is your birthday?",
+      "Where is your birthday?",
+      "When are your birthday?",
+      "When is your birthdays?",
+      "When your birthday is?",
+      "When is your birth?",
+      "When is the birthday?",
+      "When is my birthday?",
+      "When is your birthday?"
+    ]
+  },
+  {
+    "texto": "¿Quién es el director?",
+    "traduccion": "Who is the director?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "Who is the director?",
+      "Who are the director?",
+      "Who is the director?",
+      "Who is the directors?",
+      "Who is director?",
+      "Who is a director?",
+      "Who is the direct?",
+      "What is the director?",
+      "Who is the director?",
+      "Where is the director?"
+    ]
+  },
+  {
+    "texto": "¿Es este bolígrafo tuyo?",
+    "traduccion": "Is this pen yours?",
+    "categoria": "Posesivos y Demostrativos / A1-B1",
+    "opciones": [
+      "Is this pen yours?",
+      "Is this your pen?",
+      "Is this pens yours?",
+      "Is this pen your?",
+      "Is this pens your?",
+      "Are this pen yours?",
+      "Is this pen mines?",
+      "Is this pen hers?",
+      "Is this pen his?",
+      "Is this pen theirs?"
+    ]
+  },
+  {
+    "texto": "¿Por qué no comes verduras?",
+    "traduccion": "Why don't you eat vegetables?",
+    "categoria": "Preguntas Wh y Do / A1-B1",
+    "opciones": [
+      "Why don't you eat vegetables?",
+      "Why do you not eat vegetables?",
+      "Why don't you eats vegetables?",
+      "Why don't you eat vegetable?",
+      "Why do you eat vegetables?",
+      "Why don't you eating vegetables?",
+      "Why you don't eat vegetables?",
+      "Why do you eats vegetables?",
+      "Why don't you eat vegetable?",
+      "Why don't you eats vegetable?"
+    ]
+  },
+  {
+    "texto": "¿Dónde están los libros?",
+    "traduccion": "Where are the books?",
+    "categoria": "Demostrativos / A1-B1",
+    "opciones": [
+      "Where are the books?",
+      "Where is the books?",
+      "Where are the book?",
+      "Where is the book?",
+      "Where are those books?",
+      "Where is those books?",
+      "Where are those book?",
+      "Where those are books?",
+      "Where are the books?",
+      "Where are those books?"
+    ]
+  },
+  {
+    "texto": "¿Quién tiene mi mochila?",
+    "traduccion": "Who has my backpack?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "Who has my backpack?",
+      "Who have my backpack?",
+      "Who has mine backpack?",
+      "Who has my backpacks?",
+      "Who have my backpacks?",
+      "Who have mine backpack?",
+      "Who has the backpack?",
+      "Who have the backpack?",
+      "Who has your backpack?",
+      "Who have your backpack?"
+    ]
+  },
+  {
+    "texto": "¿Están ellos en casa?",
+    "traduccion": "Are they at home?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "Are they at home?",
+      "Is they at home?",
+      "Are them at home?",
+      "Is them at home?",
+      "Are they at house?",
+      "Are they home?",
+      "Are their at home?",
+      "Are they're at home?",
+      "Are they at houses?",
+      "Are they at the home?"
+    ]
+  },
+  {
+    "texto": "¿Qué quieres beber?",
+    "traduccion": "What do you want to drink?",
+    "categoria": "Preguntas Wh y Do / A1-B1",
+    "opciones": [
+      "What do you want to drink?",
+      "What you want to drink?",
+      "What does you want to drink?",
+      "What do you wants to drink?",
+      "What do you want drink?",
+      "What do you drink?",
+      "What do you wants drink?",
+      "What do you wanting to drink?",
+      "What does you wants to drink?",
+      "What do you drinks?"
+    ]
+  },
+  {
+    "texto": "¿Es ese tu coche?",
+    "traduccion": "Is that your car?",
+    "categoria": "Posesivos y Demostrativos / A1-B1",
+    "opciones": [
+      "Is that your car?",
+      "Is that yours car?",
+      "Is that your cars?",
+      "Is that your car?",
+      "Are that your car?",
+      "Is that your car?",
+      "Is that mine car?",
+      "Is that her car?",
+      "Is that his car?",
+      "Is that their car?"
+    ]
+  },
+  {
+    "texto": "¿Dónde está el baño?",
+    "traduccion": "Where is the bathroom?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "Where is the bathroom?",
+      "Where are the bathroom?",
+      "Where is the bathrooms?",
+      "Where is bathroom?",
+      "Where the bathroom is?",
+      "Where it is the bathroom?",
+      "Where is the bath?",
+      "Where is the bath room?",
+      "Where is the rest room?",
+      "Where is the restroom?"
+    ]
+  },
+  {
+    "texto": "¿Cómo está tu madre?",
+    "traduccion": "How is your mother?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "How is your mother?",
+      "How are your mother?",
+      "How is your mothers?",
+      "How is your mother?",
+      "How is your mother?",
+      "How is your father?",
+      "How your mother is?",
+      "How is your mom?",
+      "How is your momma?",
+      "How is your mom?"
+    ]
+  },
+  {
+    "texto": "¿Por qué no estudias?",
+    "traduccion": "Why don't you study?",
+    "categoria": "Preguntas Wh y Do / A1-B1",
+    "opciones": [
+      "Why don't you study?",
+      "Why do you not study?",
+      "Why don't you studies?",
+      "Why don't you study?",
+      "Why do you study?",
+      "Why don't you studying?",
+      "Why you don't study?",
+      "Why do you studies?",
+      "Why don't you study?",
+      "Why don't you studies?"
+    ]
+  },
+  {
+    "texto": "¿Es esta tu casa?",
+    "traduccion": "Is this your house?",
+    "categoria": "Posesivos y Demostrativos / A1-B1",
+    "opciones": [
+      "Is this your house?",
+      "Is this yours house?",
+      "Is this your houses?",
+      "Is this your home?",
+      "Is this your house?",
+      "Is this your house?",
+      "Is this mine house?",
+      "Is this her house?",
+      "Is this his house?",
+      "Is this their house?"
+    ]
+  },
+  {
+    "texto": "¿Quién está en la puerta?",
+    "traduccion": "Who is at the door?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "Who is at the door?",
+      "Who are at the door?",
+      "Who is at door?",
+      "Who is at the doors?",
+      "Who is at door?",
+      "Who is in the door?",
+      "Who is at the entrance?",
+      "Who is on the door?",
+      "Who is on door?",
+      "Who is by the door?"
+    ]
+  },
+  {
+    "texto": "¿Cuántos años tienes?",
+    "traduccion": "How old are you?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "How old are you?",
+      "How old is you?",
+      "How old you are?",
+      "How old you is?",
+      "How many years you have?",
+      "How many years do you have?",
+      "How many years are you?",
+      "How many years is you?",
+      "How old are yous?",
+      "How old are your?"
+    ]
+  },
+  {
+    "texto": "¿Qué quieres para cenar?",
+    "traduccion": "What do you want for dinner?",
+    "categoria": "Preguntas Wh y Do / A1-B1",
+    "opciones": [
+      "What do you want for dinner?",
+      "What you want for dinner?",
+      "What does you want for dinner?",
+      "What do you wants for dinner?",
+      "What do you want dinner?",
+      "What do you eat for dinner?",
+      "What do you wants dinner?",
+      "What do you wanting for dinner?",
+      "What does you wants for dinner?",
+      "What do you eats for dinner?"
+    ]
+  },
+  {
+    "texto": "¿Son tuyos esos zapatos?",
+    "traduccion": "Are those shoes yours?",
+    "categoria": "Posesivos y Demostrativos / A1-B1",
+    "opciones": [
+      "Are those shoes yours?",
+      "Are that shoes yours?",
+      "Are those shoe yours?",
+      "Are those shoes your?",
+      "Are those shoes mine?",
+      "Are those shoes her?",
+      "Are those shoes his?",
+      "Are those shoes ours?",
+      "Are those shoes theirs?",
+      "Are those shoes yourses?"
+    ]
+  },
+  {
+    "texto": "¿Dónde está mi teléfono?",
+    "traduccion": "Where is my phone?",
+    "categoria": "Posesivos / A1-B1",
+    "opciones": [
+      "Where is my phone?",
+      "Where are my phone?",
+      "Where is mine phone?",
+      "Where is my phones?",
+      "Where are mine phones?",
+      "Where is your phone?",
+      "Where is his phone?",
+      "Where is her phone?",
+      "Where is their phone?",
+      "Where is phone my?"
+    ]
+  },
+  {
+    "texto": "¿Cuánto cuesta este libro?",
+    "traduccion": "How much does this book cost?",
+    "categoria": "Preguntas Wh y Do / A1-B1",
+    "opciones": [
+      "How much does this book cost?",
+      "How much do this book cost?",
+      "How much does this books cost?",
+      "How much do this books cost?",
+      "How much does this book costs?",
+      "How much do this book costs?",
+      "How much this book cost?",
+      "How much this books cost?",
+      "How much does this cost book?",
+      "How much does cost this book?"
+    ]
+  },
+  {
+    "texto": "¿Quién te ayudó ayer?",
+    "traduccion": "Who helped you yesterday?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "Who helped you yesterday?",
+      "Who help you yesterday?",
+      "Who helped you today?",
+      "Who helped you tomorrow?",
+      "Who helping you yesterday?",
+      "Who helped you yesterdays?",
+      "Who helped you yestarday?",
+      "Who help you yesterdays?",
+      "Who helped you yesterday?",
+      "Who helps you yesterday?"
+    ]
+  },
+  {
+    "texto": "¿Cuántos estudiantes hay?",
+    "traduccion": "How many students are there?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "How many students are there?",
+      "How many students is there?",
+      "How many student are there?",
+      "How many student is there?",
+      "How many students there are?",
+      "How many students there is?",
+      "How many students are their?",
+      "How many students are they're?",
+      "How many students is their?",
+      "How many students are they?"
+    ]
+  },
+  {
+    "texto": "¿Dónde estudias inglés?",
+    "traduccion": "Where do you study English?",
+    "categoria": "Preguntas Wh y Do / A1-B1",
+    "opciones": [
+      "Where do you study English?",
+      "Where you study English?",
+      "Where does you study English?",
+      "Where do you studies English?",
+      "Where do you study Englishs?",
+      "Where does you studies English?",
+      "Where do you studied English?",
+      "Where do you study in English?",
+      "Where do you studied in English?",
+      "Where do you study english?"
+    ]
+  },
+  {
+    "texto": "¿Es tuyo este cuaderno?",
+    "traduccion": "Is this notebook yours?",
+    "categoria": "Posesivos y Demostrativos / A1-B1",
+    "opciones": [
+      "Is this notebook yours?",
+      "Is this your notebook?",
+      "Is this notebooks yours?",
+      "Is this notebook your?",
+      "Is this notebooks your?",
+      "Are this notebook yours?",
+      "Is this notebook mines?",
+      "Is this notebook hers?",
+      "Is this notebook his?",
+      "Is this notebook theirs?"
+    ]
+  },
+  {
+    "texto": "¿Qué día es hoy?",
+    "traduccion": "What day is it today?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "What day is it today?",
+      "What day are it today?",
+      "What days is it today?",
+      "What day is today?",
+      "What day is it today?",
+      "What is the day today?",
+      "What day today is it?",
+      "What day is it now?",
+      "What day today is?",
+      "What day today?"
+    ]
+  },
+  {
+    "texto": "¿Cómo estás hoy?",
+    "traduccion": "How are you today?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "How are you today?",
+      "How is you today?",
+      "How you are today?",
+      "How you is today?",
+      "How are you now?",
+      "How are you today?",
+      "How are you?",
+      "How is you?",
+      "How you are?",
+      "How are today you?"
+    ]
+  },
+  {
+    "texto": "¿Dónde puedo comprar pan?",
+    "traduccion": "Where can I buy bread?",
+    "categoria": "Preguntas Wh / A1-B1",
+    "opciones": [
+      "Where can I buy bread?",
+      "Where can I buys bread?",
+      "Where can I buy breads?",
+      "Where can I buy the bread?",
+      "Where can I bought bread?",
+      "Where can I buy breads?",
+      "Where can I buy bread?",
+      "Where can I buy the breads?",
+      "Where can I buy some bread?",
+      "Where can I buy a bread?"
+    ]
+  },
+  {
+    "texto": "¿Es tu amigo nuevo?",
+    "traduccion": "Is he your new friend?",
+    "categoria": "Posesivos / A1-B1",
+    "opciones": [
+      "Is he your new friend?",
+      "Is he yours new friend?",
+      "Is he your new friends?",
+      "Is he your friend new?",
+      "Is he your friend?",
+      "Is he your old friend?",
+      "Is he his new friend?",
+      "Is he her new friend?",
+      "Is he their new friend?",
+      "Is he our new friend?"
+    ]
+  }
+]

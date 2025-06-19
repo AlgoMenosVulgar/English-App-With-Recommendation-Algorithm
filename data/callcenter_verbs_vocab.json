@@ -1,0 +1,1022 @@
+[
+  {
+    "texto": "ask",
+    "traduccion": "preguntar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "preguntar",
+      "ver",
+      "mover",
+      "pensar",
+      "leer",
+      "recordar",
+      "apagar",
+      "elegir",
+      "aprender",
+      "parar"
+    ]
+  },
+  {
+    "texto": "be",
+    "traduccion": "ser/estar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "ser/estar",
+      "abrir",
+      "hablar",
+      "encender",
+      "beber",
+      "aprender",
+      "comprar",
+      "sonreír",
+      "poder",
+      "pagar"
+    ]
+  },
+  {
+    "texto": "call",
+    "traduccion": "llamar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "llamar",
+      "tomar",
+      "jugar",
+      "pagar",
+      "vivir",
+      "sentarse",
+      "pertenecer",
+      "desear",
+      "sonreír",
+      "querer"
+    ]
+  },
+  {
+    "texto": "can",
+    "traduccion": "poder",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "poder",
+      "pedir",
+      "sonreír",
+      "terminar",
+      "encender",
+      "correr",
+      "limpiar",
+      "hablar",
+      "trabajar",
+      "sentarse"
+    ]
+  },
+  {
+    "texto": "come",
+    "traduccion": "venir",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "venir",
+      "mirar",
+      "vivir",
+      "desear",
+      "querer",
+      "encender",
+      "apagar",
+      "esperar",
+      "cantar",
+      "gustar"
+    ]
+  },
+  {
+    "texto": "do",
+    "traduccion": "hacer",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "hacer",
+      "tocar",
+      "escribir",
+      "ayudar",
+      "parar",
+      "pensar",
+      "sentarse",
+      "sujetar",
+      "tomar",
+      "sonreír"
+    ]
+  },
+  {
+    "texto": "drink",
+    "traduccion": "beber",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "beber",
+      "ver",
+      "limpiar",
+      "sonreír",
+      "pertenecer",
+      "saber",
+      "pedir",
+      "aprender",
+      "encontrar",
+      "venir"
+    ]
+  },
+  {
+    "texto": "eat",
+    "traduccion": "comer",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "comer",
+      "hacer",
+      "desear",
+      "encender",
+      "mirar",
+      "elegir",
+      "jugar",
+      "pagar",
+      "aprender",
+      "cantar"
+    ]
+  },
+  {
+    "texto": "go",
+    "traduccion": "ir",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "ir",
+      "correr",
+      "saber",
+      "pedir prestado",
+      "estudiar",
+      "querer",
+      "elegir",
+      "cantar",
+      "mirar",
+      "leer"
+    ]
+  },
+  {
+    "texto": "have",
+    "traduccion": "tener",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "tener",
+      "empezar",
+      "esperar",
+      "tocar",
+      "mirar",
+      "hacer",
+      "sujetar",
+      "llamar",
+      "pensar",
+      "saber"
+    ]
+  },
+  {
+    "texto": "hear",
+    "traduccion": "oír",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "oír",
+      "poder",
+      "encender",
+      "ser/estar",
+      "cantar",
+      "beber",
+      "ir",
+      "gustar",
+      "jugar con",
+      "correr"
+    ]
+  },
+  {
+    "texto": "help",
+    "traduccion": "ayudar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "ayudar",
+      "dormir",
+      "sujetar",
+      "apagar",
+      "poder",
+      "aprender",
+      "saber",
+      "cantar",
+      "vivir",
+      "oír"
+    ]
+  },
+  {
+    "texto": "know",
+    "traduccion": "saber",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "saber",
+      "ir",
+      "sonreír",
+      "terminar",
+      "jugar con",
+      "sujetar",
+      "mover",
+      "abrir",
+      "leer",
+      "oír"
+    ]
+  },
+  {
+    "texto": "like",
+    "traduccion": "gustar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "gustar",
+      "trabajar",
+      "aprender",
+      "comprar",
+      "tocar",
+      "vivir",
+      "ver",
+      "tener",
+      "reír",
+      "pagar"
+    ]
+  },
+  {
+    "texto": "live",
+    "traduccion": "vivir",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "vivir",
+      "tener",
+      "jugar con",
+      "recordar",
+      "ver",
+      "aprender",
+      "mover",
+      "ir",
+      "oír",
+      "viajar"
+    ]
+  },
+  {
+    "texto": "look",
+    "traduccion": "mirar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "mirar",
+      "mover",
+      "comer",
+      "tocar",
+      "estudiar",
+      "encontrar",
+      "viajar",
+      "cantar",
+      "llegar",
+      "ver"
+    ]
+  },
+  {
+    "texto": "make",
+    "traduccion": "hacer",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "hacer",
+      "pertenecer",
+      "sentarse",
+      "sonreír",
+      "ver",
+      "recordar",
+      "abrir",
+      "beber",
+      "desear",
+      "querer"
+    ]
+  },
+  {
+    "texto": "meet",
+    "traduccion": "encontrar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "encontrar",
+      "recordar",
+      "reír",
+      "dormir",
+      "sonreír",
+      "sujetar",
+      "mover",
+      "elegir",
+      "jugar",
+      "beber"
+    ]
+  },
+  {
+    "texto": "open",
+    "traduccion": "abrir",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "abrir",
+      "empezar",
+      "vivir",
+      "leer",
+      "comprar",
+      "ir",
+      "sonreír",
+      "encontrar",
+      "desear",
+      "aprender"
+    ]
+  },
+  {
+    "texto": "play",
+    "traduccion": "jugar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "jugar",
+      "mover",
+      "hablar",
+      "parar",
+      "llamar",
+      "cantar",
+      "elegir",
+      "pensar",
+      "pedir",
+      "recordar"
+    ]
+  },
+  {
+    "texto": "read",
+    "traduccion": "leer",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "leer",
+      "tocar",
+      "pedir",
+      "tener",
+      "gustar",
+      "querer",
+      "venir",
+      "mover",
+      "trabajar",
+      "esperar"
+    ]
+  },
+  {
+    "texto": "see",
+    "traduccion": "ver",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "ver",
+      "recordar",
+      "gustar",
+      "comprar",
+      "venir",
+      "llegar",
+      "preguntar",
+      "desear",
+      "trabajar",
+      "esperar"
+    ]
+  },
+  {
+    "texto": "sing",
+    "traduccion": "cantar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "cantar",
+      "gustar",
+      "trabajar",
+      "llamar",
+      "leer",
+      "limpiar",
+      "mover",
+      "encontrar",
+      "dormir",
+      "jugar con"
+    ]
+  },
+  {
+    "texto": "sit",
+    "traduccion": "sentarse",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "sentarse",
+      "terminar",
+      "jugar con",
+      "sujetar",
+      "ayudar",
+      "reír",
+      "mover",
+      "comprar",
+      "abrir",
+      "venir"
+    ]
+  },
+  {
+    "texto": "sleep",
+    "traduccion": "dormir",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "dormir",
+      "parar",
+      "gustar",
+      "jugar con",
+      "viajar",
+      "leer",
+      "encender",
+      "tocar",
+      "limpiar",
+      "estudiar"
+    ]
+  },
+  {
+    "texto": "speak",
+    "traduccion": "hablar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "hablar",
+      "recordar",
+      "elegir",
+      "aprender",
+      "ser/estar",
+      "desear",
+      "vivir",
+      "leer",
+      "llegar",
+      "correr"
+    ]
+  },
+  {
+    "texto": "study",
+    "traduccion": "estudiar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "estudiar",
+      "reír",
+      "hacer",
+      "empezar",
+      "mirar",
+      "poder",
+      "querer",
+      "llamar",
+      "sentarse",
+      "encontrar"
+    ]
+  },
+  {
+    "texto": "take",
+    "traduccion": "tomar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "tomar",
+      "hacer",
+      "apagar",
+      "sujetar",
+      "estudiar",
+      "llegar",
+      "venir",
+      "sonreír",
+      "ir",
+      "ser/estar"
+    ]
+  },
+  {
+    "texto": "talk",
+    "traduccion": "hablar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "hablar",
+      "abrir",
+      "escribir",
+      "ayudar",
+      "empezar",
+      "ser/estar",
+      "jugar con",
+      "dormir",
+      "pedir",
+      "recordar"
+    ]
+  },
+  {
+    "texto": "think",
+    "traduccion": "pensar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "pensar",
+      "saber",
+      "jugar",
+      "llegar",
+      "sonreír",
+      "tomar",
+      "tener",
+      "mover",
+      "sentarse",
+      "correr"
+    ]
+  },
+  {
+    "texto": "travel",
+    "traduccion": "viajar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "viajar",
+      "jugar con",
+      "pertenecer",
+      "trabajar",
+      "dormir",
+      "pagar",
+      "mover",
+      "estudiar",
+      "esperar",
+      "tener"
+    ]
+  },
+  {
+    "texto": "want",
+    "traduccion": "querer",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "querer",
+      "leer",
+      "llegar",
+      "tener",
+      "tocar",
+      "ser/estar",
+      "viajar",
+      "tomar",
+      "terminar",
+      "abrir"
+    ]
+  },
+  {
+    "texto": "work",
+    "traduccion": "trabajar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "trabajar",
+      "jugar con",
+      "encontrar",
+      "comprar",
+      "jugar",
+      "terminar",
+      "pensar",
+      "querer",
+      "pertenecer",
+      "escribir"
+    ]
+  },
+  {
+    "texto": "write",
+    "traduccion": "escribir",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "escribir",
+      "terminar",
+      "aprender",
+      "pertenecer",
+      "abrir",
+      "parar",
+      "ayudar",
+      "apagar",
+      "ir",
+      "empezar"
+    ]
+  },
+  {
+    "texto": "run",
+    "traduccion": "correr",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "correr",
+      "jugar",
+      "parar",
+      "vivir",
+      "ser/estar",
+      "comer",
+      "cantar",
+      "venir",
+      "esperar",
+      "sujetar"
+    ]
+  },
+  {
+    "texto": "buy",
+    "traduccion": "comprar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "comprar",
+      "preguntar",
+      "pedir prestado",
+      "vivir",
+      "mover",
+      "leer",
+      "hacer",
+      "empezar",
+      "encontrar",
+      "correr"
+    ]
+  },
+  {
+    "texto": "find",
+    "traduccion": "encontrar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "encontrar",
+      "encender",
+      "sentarse",
+      "ser/estar",
+      "preguntar",
+      "tomar",
+      "mirar",
+      "querer",
+      "dormir",
+      "limpiar"
+    ]
+  },
+  {
+    "texto": "clean",
+    "traduccion": "limpiar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "limpiar",
+      "ser/estar",
+      "beber",
+      "dormir",
+      "ayudar",
+      "aprender",
+      "trabajar",
+      "abrir",
+      "elegir",
+      "mover"
+    ]
+  },
+  {
+    "texto": "remember",
+    "traduccion": "recordar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "recordar",
+      "poder",
+      "llegar",
+      "escribir",
+      "desear",
+      "mover",
+      "limpiar",
+      "comer",
+      "querer",
+      "dormir"
+    ]
+  },
+  {
+    "texto": "stop",
+    "traduccion": "parar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "parar",
+      "llegar",
+      "ser/estar",
+      "elegir",
+      "venir",
+      "encender",
+      "ayudar",
+      "sujetar",
+      "abrir",
+      "jugar con"
+    ]
+  },
+  {
+    "texto": "learn",
+    "traduccion": "aprender",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "aprender",
+      "jugar con",
+      "llamar",
+      "ser/estar",
+      "tener",
+      "limpiar",
+      "gustar",
+      "esperar",
+      "recordar",
+      "preguntar"
+    ]
+  },
+  {
+    "texto": "arrive",
+    "traduccion": "llegar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "llegar",
+      "empezar",
+      "encontrar",
+      "poder",
+      "estudiar",
+      "vivir",
+      "hacer",
+      "tomar",
+      "jugar",
+      "terminar"
+    ]
+  },
+  {
+    "texto": "turn off",
+    "traduccion": "apagar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "apagar",
+      "estudiar",
+      "ayudar",
+      "jugar con",
+      "querer",
+      "preguntar",
+      "gustar",
+      "elegir",
+      "mover",
+      "encontrar"
+    ]
+  },
+  {
+    "texto": "turn on",
+    "traduccion": "encender",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "encender",
+      "llegar",
+      "vivir",
+      "dormir",
+      "tomar",
+      "preguntar",
+      "pedir prestado",
+      "llamar",
+      "comprar",
+      "cantar"
+    ]
+  },
+  {
+    "texto": "ask for",
+    "traduccion": "pedir",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "pedir",
+      "oír",
+      "venir",
+      "mover",
+      "ayudar",
+      "llamar",
+      "desear",
+      "encontrar",
+      "limpiar",
+      "ir"
+    ]
+  },
+  {
+    "texto": "hold",
+    "traduccion": "sujetar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "sujetar",
+      "pedir prestado",
+      "querer",
+      "comprar",
+      "limpiar",
+      "cantar",
+      "ayudar",
+      "mirar",
+      "apagar",
+      "llamar"
+    ]
+  },
+  {
+    "texto": "wait",
+    "traduccion": "esperar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "esperar",
+      "sonreír",
+      "pertenecer",
+      "abrir",
+      "parar",
+      "ser/estar",
+      "venir",
+      "poder",
+      "apagar",
+      "jugar con"
+    ]
+  },
+  {
+    "texto": "wish",
+    "traduccion": "desear",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "desear",
+      "dormir",
+      "pertenecer",
+      "estudiar",
+      "tomar",
+      "cantar",
+      "leer",
+      "saber",
+      "sentarse",
+      "pedir prestado"
+    ]
+  },
+  {
+    "texto": "belong",
+    "traduccion": "pertenecer",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "pertenecer",
+      "empezar",
+      "ver",
+      "esperar",
+      "recordar",
+      "tener",
+      "querer",
+      "comer",
+      "ir",
+      "pensar"
+    ]
+  },
+  {
+    "texto": "borrow",
+    "traduccion": "pedir prestado",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "pedir prestado",
+      "ir",
+      "sonreír",
+      "dormir",
+      "llamar",
+      "sujetar",
+      "encender",
+      "pensar",
+      "aprender",
+      "sentarse"
+    ]
+  },
+  {
+    "texto": "choose",
+    "traduccion": "elegir",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "elegir",
+      "preguntar",
+      "saber",
+      "venir",
+      "ser/estar",
+      "leer",
+      "recordar",
+      "poder",
+      "ver",
+      "cantar"
+    ]
+  },
+  {
+    "texto": "pay",
+    "traduccion": "pagar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "pagar",
+      "parar",
+      "llamar",
+      "desear",
+      "poder",
+      "comprar",
+      "viajar",
+      "sujetar",
+      "elegir",
+      "ir"
+    ]
+  },
+  {
+    "texto": "start",
+    "traduccion": "empezar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "empezar",
+      "esperar",
+      "llegar",
+      "hablar",
+      "ir",
+      "mirar",
+      "abrir",
+      "tomar",
+      "jugar con",
+      "pagar"
+    ]
+  },
+  {
+    "texto": "finish",
+    "traduccion": "terminar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "terminar",
+      "pertenecer",
+      "tomar",
+      "jugar",
+      "encontrar",
+      "reír",
+      "mirar",
+      "sonreír",
+      "empezar",
+      "escribir"
+    ]
+  },
+  {
+    "texto": "smile",
+    "traduccion": "sonreír",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "sonreír",
+      "beber",
+      "desear",
+      "gustar",
+      "dormir",
+      "comprar",
+      "reír",
+      "empezar",
+      "correr",
+      "encender"
+    ]
+  },
+  {
+    "texto": "laugh",
+    "traduccion": "reír",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "reír",
+      "mover",
+      "limpiar",
+      "pertenecer",
+      "jugar",
+      "empezar",
+      "hablar",
+      "hacer",
+      "tomar",
+      "cantar"
+    ]
+  },
+  {
+    "texto": "touch",
+    "traduccion": "tocar",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "tocar",
+      "comprar",
+      "correr",
+      "ver",
+      "saber",
+      "pedir prestado",
+      "empezar",
+      "oír",
+      "hacer",
+      "sonreír"
+    ]
+  },
+  {
+    "texto": "move",
+    "traduccion": "mover",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "mover",
+      "limpiar",
+      "beber",
+      "vivir",
+      "comer",
+      "escribir",
+      "pertenecer",
+      "abrir",
+      "viajar",
+      "recordar"
+    ]
+  },
+  {
+    "texto": "watch",
+    "traduccion": "ver",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "ver",
+      "preguntar",
+      "hacer",
+      "querer",
+      "apagar",
+      "sonreír",
+      "ser/estar",
+      "limpiar",
+      "pedir",
+      "sujetar"
+    ]
+  },
+  {
+    "texto": "play with",
+    "traduccion": "jugar con",
+    "categoria": "Verbos / Call Center",
+    "opciones": [
+      "jugar con",
+      "desear",
+      "poder",
+      "terminar",
+      "aprender",
+      "vivir",
+      "ayudar",
+      "oír",
+      "mover",
+      "estudiar"
+    ]
+  }
+]

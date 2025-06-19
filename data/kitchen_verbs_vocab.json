@@ -1,0 +1,1022 @@
+[
+  {
+    "texto": "ask",
+    "traduccion": "preguntar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "preguntar",
+      "desear",
+      "sonreír",
+      "sujetar",
+      "pedir prestado",
+      "tocar",
+      "gustar",
+      "encontrar",
+      "ser/estar",
+      "cantar"
+    ]
+  },
+  {
+    "texto": "be",
+    "traduccion": "ser/estar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "ser/estar",
+      "apagar",
+      "tocar",
+      "encontrar",
+      "poder",
+      "querer",
+      "sonreír",
+      "sujetar",
+      "elegir",
+      "leer"
+    ]
+  },
+  {
+    "texto": "call",
+    "traduccion": "llamar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "llamar",
+      "elegir",
+      "hacer",
+      "poder",
+      "pedir prestado",
+      "aprender",
+      "beber",
+      "pedir",
+      "mover",
+      "vivir"
+    ]
+  },
+  {
+    "texto": "can",
+    "traduccion": "poder",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "poder",
+      "encender",
+      "comprar",
+      "pertenecer",
+      "mirar",
+      "pedir prestado",
+      "esperar",
+      "pedir",
+      "sentarse",
+      "tomar"
+    ]
+  },
+  {
+    "texto": "come",
+    "traduccion": "venir",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "venir",
+      "escribir",
+      "hacer",
+      "parar",
+      "elegir",
+      "trabajar",
+      "mover",
+      "poder",
+      "comprar",
+      "tomar"
+    ]
+  },
+  {
+    "texto": "do",
+    "traduccion": "hacer",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "hacer",
+      "sujetar",
+      "ir",
+      "hablar",
+      "venir",
+      "dormir",
+      "parar",
+      "limpiar",
+      "sentarse",
+      "saber"
+    ]
+  },
+  {
+    "texto": "drink",
+    "traduccion": "beber",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "beber",
+      "escribir",
+      "sonreír",
+      "estudiar",
+      "desear",
+      "pedir prestado",
+      "encontrar",
+      "llegar",
+      "preguntar",
+      "sentarse"
+    ]
+  },
+  {
+    "texto": "eat",
+    "traduccion": "comer",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "comer",
+      "abrir",
+      "pagar",
+      "escribir",
+      "sonreír",
+      "limpiar",
+      "querer",
+      "tocar",
+      "llegar",
+      "cantar"
+    ]
+  },
+  {
+    "texto": "go",
+    "traduccion": "ir",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "ir",
+      "sonreír",
+      "hacer",
+      "recordar",
+      "escribir",
+      "cantar",
+      "beber",
+      "preguntar",
+      "tocar",
+      "viajar"
+    ]
+  },
+  {
+    "texto": "have",
+    "traduccion": "tener",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "tener",
+      "empezar",
+      "esperar",
+      "venir",
+      "desear",
+      "preguntar",
+      "encontrar",
+      "sujetar",
+      "recordar",
+      "aprender"
+    ]
+  },
+  {
+    "texto": "hear",
+    "traduccion": "oír",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "oír",
+      "cantar",
+      "ser/estar",
+      "venir",
+      "tener",
+      "comer",
+      "estudiar",
+      "pertenecer",
+      "gustar",
+      "tocar"
+    ]
+  },
+  {
+    "texto": "help",
+    "traduccion": "ayudar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "ayudar",
+      "elegir",
+      "jugar",
+      "empezar",
+      "vivir",
+      "sentarse",
+      "comer",
+      "mover",
+      "leer",
+      "dormir"
+    ]
+  },
+  {
+    "texto": "know",
+    "traduccion": "saber",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "saber",
+      "mover",
+      "querer",
+      "esperar",
+      "pedir prestado",
+      "viajar",
+      "reír",
+      "limpiar",
+      "encender",
+      "tomar"
+    ]
+  },
+  {
+    "texto": "like",
+    "traduccion": "gustar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "gustar",
+      "viajar",
+      "escribir",
+      "sonreír",
+      "trabajar",
+      "esperar",
+      "encontrar",
+      "estudiar",
+      "dormir",
+      "aprender"
+    ]
+  },
+  {
+    "texto": "live",
+    "traduccion": "vivir",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "vivir",
+      "hablar",
+      "oír",
+      "ver",
+      "tocar",
+      "encender",
+      "desear",
+      "limpiar",
+      "correr",
+      "hacer"
+    ]
+  },
+  {
+    "texto": "look",
+    "traduccion": "mirar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "mirar",
+      "vivir",
+      "venir",
+      "sujetar",
+      "tener",
+      "abrir",
+      "apagar",
+      "correr",
+      "llamar",
+      "cantar"
+    ]
+  },
+  {
+    "texto": "make",
+    "traduccion": "hacer",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "hacer",
+      "pensar",
+      "mover",
+      "encontrar",
+      "pedir",
+      "hablar",
+      "ver",
+      "tomar",
+      "tocar",
+      "sonreír"
+    ]
+  },
+  {
+    "texto": "meet",
+    "traduccion": "encontrar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "encontrar",
+      "limpiar",
+      "pertenecer",
+      "sujetar",
+      "viajar",
+      "venir",
+      "mirar",
+      "terminar",
+      "ayudar",
+      "empezar"
+    ]
+  },
+  {
+    "texto": "open",
+    "traduccion": "abrir",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "abrir",
+      "terminar",
+      "comprar",
+      "ir",
+      "encontrar",
+      "sentarse",
+      "cantar",
+      "mirar",
+      "comer",
+      "mover"
+    ]
+  },
+  {
+    "texto": "play",
+    "traduccion": "jugar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "jugar",
+      "comer",
+      "viajar",
+      "venir",
+      "trabajar",
+      "poder",
+      "escribir",
+      "oír",
+      "tomar",
+      "encontrar"
+    ]
+  },
+  {
+    "texto": "read",
+    "traduccion": "leer",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "leer",
+      "mover",
+      "trabajar",
+      "limpiar",
+      "recordar",
+      "gustar",
+      "abrir",
+      "pertenecer",
+      "querer",
+      "reír"
+    ]
+  },
+  {
+    "texto": "see",
+    "traduccion": "ver",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "ver",
+      "aprender",
+      "empezar",
+      "venir",
+      "dormir",
+      "sujetar",
+      "estudiar",
+      "llegar",
+      "hacer",
+      "pensar"
+    ]
+  },
+  {
+    "texto": "sing",
+    "traduccion": "cantar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "cantar",
+      "abrir",
+      "ser/estar",
+      "beber",
+      "sujetar",
+      "llegar",
+      "hacer",
+      "correr",
+      "pagar",
+      "tocar"
+    ]
+  },
+  {
+    "texto": "sit",
+    "traduccion": "sentarse",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "sentarse",
+      "pertenecer",
+      "hacer",
+      "pagar",
+      "saber",
+      "elegir",
+      "ayudar",
+      "tener",
+      "tomar",
+      "trabajar"
+    ]
+  },
+  {
+    "texto": "sleep",
+    "traduccion": "dormir",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "dormir",
+      "llegar",
+      "jugar con",
+      "viajar",
+      "venir",
+      "sentarse",
+      "empezar",
+      "recordar",
+      "hablar",
+      "elegir"
+    ]
+  },
+  {
+    "texto": "speak",
+    "traduccion": "hablar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "hablar",
+      "parar",
+      "mirar",
+      "correr",
+      "sonreír",
+      "tocar",
+      "mover",
+      "encender",
+      "comprar",
+      "tomar"
+    ]
+  },
+  {
+    "texto": "study",
+    "traduccion": "estudiar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "estudiar",
+      "comprar",
+      "vivir",
+      "escribir",
+      "encontrar",
+      "pensar",
+      "esperar",
+      "gustar",
+      "mover",
+      "terminar"
+    ]
+  },
+  {
+    "texto": "take",
+    "traduccion": "tomar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "tomar",
+      "escribir",
+      "elegir",
+      "llamar",
+      "ver",
+      "recordar",
+      "beber",
+      "esperar",
+      "pertenecer",
+      "estudiar"
+    ]
+  },
+  {
+    "texto": "talk",
+    "traduccion": "hablar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "hablar",
+      "ser/estar",
+      "sujetar",
+      "tomar",
+      "querer",
+      "aprender",
+      "pensar",
+      "dormir",
+      "elegir",
+      "encender"
+    ]
+  },
+  {
+    "texto": "think",
+    "traduccion": "pensar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "pensar",
+      "preguntar",
+      "saber",
+      "oír",
+      "apagar",
+      "abrir",
+      "aprender",
+      "jugar",
+      "pertenecer",
+      "cantar"
+    ]
+  },
+  {
+    "texto": "travel",
+    "traduccion": "viajar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "viajar",
+      "correr",
+      "esperar",
+      "preguntar",
+      "escribir",
+      "limpiar",
+      "elegir",
+      "tocar",
+      "venir",
+      "jugar"
+    ]
+  },
+  {
+    "texto": "want",
+    "traduccion": "querer",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "querer",
+      "jugar",
+      "preguntar",
+      "pedir",
+      "gustar",
+      "ayudar",
+      "poder",
+      "oír",
+      "empezar",
+      "viajar"
+    ]
+  },
+  {
+    "texto": "work",
+    "traduccion": "trabajar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "trabajar",
+      "mover",
+      "llamar",
+      "pertenecer",
+      "pedir",
+      "elegir",
+      "venir",
+      "vivir",
+      "preguntar",
+      "hacer"
+    ]
+  },
+  {
+    "texto": "write",
+    "traduccion": "escribir",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "escribir",
+      "tocar",
+      "comer",
+      "oír",
+      "cantar",
+      "recordar",
+      "pertenecer",
+      "reír",
+      "llegar",
+      "ser/estar"
+    ]
+  },
+  {
+    "texto": "run",
+    "traduccion": "correr",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "correr",
+      "ser/estar",
+      "ayudar",
+      "pedir prestado",
+      "pagar",
+      "pertenecer",
+      "viajar",
+      "tener",
+      "mirar",
+      "saber"
+    ]
+  },
+  {
+    "texto": "buy",
+    "traduccion": "comprar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "comprar",
+      "ser/estar",
+      "mover",
+      "aprender",
+      "viajar",
+      "elegir",
+      "tomar",
+      "sonreír",
+      "hablar",
+      "tener"
+    ]
+  },
+  {
+    "texto": "find",
+    "traduccion": "encontrar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "encontrar",
+      "recordar",
+      "pensar",
+      "ver",
+      "oír",
+      "sujetar",
+      "jugar",
+      "vivir",
+      "tener",
+      "apagar"
+    ]
+  },
+  {
+    "texto": "clean",
+    "traduccion": "limpiar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "limpiar",
+      "llegar",
+      "cantar",
+      "beber",
+      "preguntar",
+      "escribir",
+      "viajar",
+      "poder",
+      "venir",
+      "pertenecer"
+    ]
+  },
+  {
+    "texto": "remember",
+    "traduccion": "recordar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "recordar",
+      "ser/estar",
+      "leer",
+      "empezar",
+      "estudiar",
+      "desear",
+      "sonreír",
+      "terminar",
+      "aprender",
+      "poder"
+    ]
+  },
+  {
+    "texto": "stop",
+    "traduccion": "parar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "parar",
+      "oír",
+      "esperar",
+      "ir",
+      "llamar",
+      "apagar",
+      "gustar",
+      "tener",
+      "pedir prestado",
+      "vivir"
+    ]
+  },
+  {
+    "texto": "learn",
+    "traduccion": "aprender",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "aprender",
+      "pertenecer",
+      "reír",
+      "recordar",
+      "ser/estar",
+      "querer",
+      "jugar",
+      "sonreír",
+      "comer",
+      "poder"
+    ]
+  },
+  {
+    "texto": "arrive",
+    "traduccion": "llegar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "llegar",
+      "pedir prestado",
+      "ir",
+      "tener",
+      "venir",
+      "cantar",
+      "abrir",
+      "mover",
+      "escribir",
+      "jugar"
+    ]
+  },
+  {
+    "texto": "turn off",
+    "traduccion": "apagar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "apagar",
+      "trabajar",
+      "pedir prestado",
+      "esperar",
+      "pagar",
+      "abrir",
+      "ver",
+      "correr",
+      "poder",
+      "querer"
+    ]
+  },
+  {
+    "texto": "turn on",
+    "traduccion": "encender",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "encender",
+      "correr",
+      "comer",
+      "encontrar",
+      "comprar",
+      "aprender",
+      "llegar",
+      "tener",
+      "pertenecer",
+      "beber"
+    ]
+  },
+  {
+    "texto": "ask for",
+    "traduccion": "pedir",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "pedir",
+      "estudiar",
+      "elegir",
+      "abrir",
+      "sentarse",
+      "gustar",
+      "leer",
+      "tener",
+      "aprender",
+      "encontrar"
+    ]
+  },
+  {
+    "texto": "hold",
+    "traduccion": "sujetar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "sujetar",
+      "pertenecer",
+      "tomar",
+      "terminar",
+      "escribir",
+      "comprar",
+      "pagar",
+      "oír",
+      "reír",
+      "cantar"
+    ]
+  },
+  {
+    "texto": "wait",
+    "traduccion": "esperar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "esperar",
+      "comer",
+      "gustar",
+      "oír",
+      "parar",
+      "mirar",
+      "abrir",
+      "leer",
+      "empezar",
+      "tener"
+    ]
+  },
+  {
+    "texto": "wish",
+    "traduccion": "desear",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "desear",
+      "saber",
+      "mover",
+      "aprender",
+      "viajar",
+      "encontrar",
+      "correr",
+      "gustar",
+      "sentarse",
+      "dormir"
+    ]
+  },
+  {
+    "texto": "belong",
+    "traduccion": "pertenecer",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "pertenecer",
+      "pagar",
+      "encender",
+      "limpiar",
+      "correr",
+      "viajar",
+      "cantar",
+      "vivir",
+      "terminar",
+      "tener"
+    ]
+  },
+  {
+    "texto": "borrow",
+    "traduccion": "pedir prestado",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "pedir prestado",
+      "reír",
+      "tocar",
+      "dormir",
+      "comprar",
+      "encontrar",
+      "encender",
+      "pensar",
+      "limpiar",
+      "poder"
+    ]
+  },
+  {
+    "texto": "choose",
+    "traduccion": "elegir",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "elegir",
+      "parar",
+      "recordar",
+      "encontrar",
+      "llegar",
+      "trabajar",
+      "tomar",
+      "sentarse",
+      "hablar",
+      "reír"
+    ]
+  },
+  {
+    "texto": "pay",
+    "traduccion": "pagar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "pagar",
+      "esperar",
+      "elegir",
+      "encontrar",
+      "pertenecer",
+      "aprender",
+      "venir",
+      "mover",
+      "reír",
+      "hablar"
+    ]
+  },
+  {
+    "texto": "start",
+    "traduccion": "empezar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "empezar",
+      "trabajar",
+      "abrir",
+      "sonreír",
+      "estudiar",
+      "reír",
+      "viajar",
+      "ser/estar",
+      "beber",
+      "oír"
+    ]
+  },
+  {
+    "texto": "finish",
+    "traduccion": "terminar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "terminar",
+      "pedir",
+      "preguntar",
+      "sujetar",
+      "oír",
+      "sentarse",
+      "estudiar",
+      "correr",
+      "parar",
+      "dormir"
+    ]
+  },
+  {
+    "texto": "smile",
+    "traduccion": "sonreír",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "sonreír",
+      "trabajar",
+      "pertenecer",
+      "dormir",
+      "preguntar",
+      "sentarse",
+      "parar",
+      "ser/estar",
+      "pensar",
+      "llamar"
+    ]
+  },
+  {
+    "texto": "laugh",
+    "traduccion": "reír",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "reír",
+      "tocar",
+      "trabajar",
+      "hablar",
+      "tener",
+      "llegar",
+      "ser/estar",
+      "ayudar",
+      "elegir",
+      "ver"
+    ]
+  },
+  {
+    "texto": "touch",
+    "traduccion": "tocar",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "tocar",
+      "desear",
+      "apagar",
+      "pedir prestado",
+      "tener",
+      "elegir",
+      "sonreír",
+      "querer",
+      "encender",
+      "ver"
+    ]
+  },
+  {
+    "texto": "move",
+    "traduccion": "mover",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "mover",
+      "tomar",
+      "encender",
+      "pertenecer",
+      "sentarse",
+      "comprar",
+      "ver",
+      "hacer",
+      "beber",
+      "limpiar"
+    ]
+  },
+  {
+    "texto": "watch",
+    "traduccion": "ver",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "ver",
+      "ser/estar",
+      "mirar",
+      "leer",
+      "limpiar",
+      "viajar",
+      "querer",
+      "pertenecer",
+      "pedir prestado",
+      "dormir"
+    ]
+  },
+  {
+    "texto": "play with",
+    "traduccion": "jugar con",
+    "categoria": "Verbos / Cocina",
+    "opciones": [
+      "jugar con",
+      "esperar",
+      "dormir",
+      "limpiar",
+      "gustar",
+      "ayudar",
+      "tocar",
+      "hablar",
+      "beber",
+      "sentarse"
+    ]
+  }
+]

@@ -1,0 +1,1022 @@
+[
+  {
+    "texto": "ask",
+    "traduccion": "preguntar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "preguntar",
+      "jugar con",
+      "recordar",
+      "pedir prestado",
+      "jugar",
+      "sonreír",
+      "empezar",
+      "pagar",
+      "parar",
+      "sentarse"
+    ]
+  },
+  {
+    "texto": "be",
+    "traduccion": "ser/estar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "ser/estar",
+      "recordar",
+      "gustar",
+      "pensar",
+      "hablar",
+      "limpiar",
+      "tomar",
+      "venir",
+      "ayudar",
+      "elegir"
+    ]
+  },
+  {
+    "texto": "call",
+    "traduccion": "llamar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "llamar",
+      "pensar",
+      "sentarse",
+      "vivir",
+      "cantar",
+      "recordar",
+      "esperar",
+      "llegar",
+      "ayudar",
+      "trabajar"
+    ]
+  },
+  {
+    "texto": "can",
+    "traduccion": "poder",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "poder",
+      "hacer",
+      "estudiar",
+      "pensar",
+      "jugar",
+      "pagar",
+      "tomar",
+      "empezar",
+      "recordar",
+      "correr"
+    ]
+  },
+  {
+    "texto": "come",
+    "traduccion": "venir",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "venir",
+      "hacer",
+      "pedir prestado",
+      "esperar",
+      "oír",
+      "ver",
+      "comer",
+      "ser/estar",
+      "pagar",
+      "sujetar"
+    ]
+  },
+  {
+    "texto": "do",
+    "traduccion": "hacer",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "hacer",
+      "escribir",
+      "comer",
+      "aprender",
+      "llegar",
+      "tener",
+      "ser/estar",
+      "vivir",
+      "ayudar",
+      "estudiar"
+    ]
+  },
+  {
+    "texto": "drink",
+    "traduccion": "beber",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "beber",
+      "desear",
+      "leer",
+      "ir",
+      "ser/estar",
+      "parar",
+      "sujetar",
+      "pedir",
+      "saber",
+      "elegir"
+    ]
+  },
+  {
+    "texto": "eat",
+    "traduccion": "comer",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "comer",
+      "vivir",
+      "pensar",
+      "leer",
+      "trabajar",
+      "estudiar",
+      "esperar",
+      "empezar",
+      "llegar",
+      "desear"
+    ]
+  },
+  {
+    "texto": "go",
+    "traduccion": "ir",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "ir",
+      "esperar",
+      "parar",
+      "reír",
+      "viajar",
+      "cantar",
+      "limpiar",
+      "desear",
+      "correr",
+      "comprar"
+    ]
+  },
+  {
+    "texto": "have",
+    "traduccion": "tener",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "tener",
+      "saber",
+      "pertenecer",
+      "vivir",
+      "encender",
+      "desear",
+      "sujetar",
+      "llegar",
+      "llamar",
+      "limpiar"
+    ]
+  },
+  {
+    "texto": "hear",
+    "traduccion": "oír",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "oír",
+      "tocar",
+      "apagar",
+      "beber",
+      "cantar",
+      "limpiar",
+      "ver",
+      "ayudar",
+      "jugar",
+      "ir"
+    ]
+  },
+  {
+    "texto": "help",
+    "traduccion": "ayudar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "ayudar",
+      "elegir",
+      "mirar",
+      "aprender",
+      "correr",
+      "llegar",
+      "pagar",
+      "trabajar",
+      "esperar",
+      "recordar"
+    ]
+  },
+  {
+    "texto": "know",
+    "traduccion": "saber",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "saber",
+      "jugar con",
+      "tener",
+      "pertenecer",
+      "empezar",
+      "tomar",
+      "beber",
+      "sentarse",
+      "pedir prestado",
+      "viajar"
+    ]
+  },
+  {
+    "texto": "like",
+    "traduccion": "gustar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "gustar",
+      "estudiar",
+      "viajar",
+      "comer",
+      "elegir",
+      "empezar",
+      "beber",
+      "pedir",
+      "jugar con",
+      "preguntar"
+    ]
+  },
+  {
+    "texto": "live",
+    "traduccion": "vivir",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "vivir",
+      "llamar",
+      "saber",
+      "tocar",
+      "pedir",
+      "comer",
+      "venir",
+      "hacer",
+      "sentarse",
+      "cantar"
+    ]
+  },
+  {
+    "texto": "look",
+    "traduccion": "mirar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "mirar",
+      "ser/estar",
+      "sentarse",
+      "recordar",
+      "pagar",
+      "oír",
+      "encontrar",
+      "llamar",
+      "viajar",
+      "correr"
+    ]
+  },
+  {
+    "texto": "make",
+    "traduccion": "hacer",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "hacer",
+      "mover",
+      "desear",
+      "sentarse",
+      "pensar",
+      "limpiar",
+      "correr",
+      "llamar",
+      "oír",
+      "poder"
+    ]
+  },
+  {
+    "texto": "meet",
+    "traduccion": "encontrar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "encontrar",
+      "hacer",
+      "venir",
+      "tomar",
+      "aprender",
+      "limpiar",
+      "sentarse",
+      "saber",
+      "gustar",
+      "esperar"
+    ]
+  },
+  {
+    "texto": "open",
+    "traduccion": "abrir",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "abrir",
+      "pertenecer",
+      "pedir",
+      "encontrar",
+      "parar",
+      "encender",
+      "empezar",
+      "beber",
+      "pagar",
+      "dormir"
+    ]
+  },
+  {
+    "texto": "play",
+    "traduccion": "jugar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "jugar",
+      "sentarse",
+      "oír",
+      "trabajar",
+      "vivir",
+      "tomar",
+      "ser/estar",
+      "aprender",
+      "encender",
+      "sonreír"
+    ]
+  },
+  {
+    "texto": "read",
+    "traduccion": "leer",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "leer",
+      "comprar",
+      "reír",
+      "sujetar",
+      "estudiar",
+      "mirar",
+      "apagar",
+      "limpiar",
+      "tocar",
+      "hacer"
+    ]
+  },
+  {
+    "texto": "see",
+    "traduccion": "ver",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "ver",
+      "apagar",
+      "ayudar",
+      "pertenecer",
+      "oír",
+      "empezar",
+      "dormir",
+      "hacer",
+      "pagar",
+      "encender"
+    ]
+  },
+  {
+    "texto": "sing",
+    "traduccion": "cantar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "cantar",
+      "elegir",
+      "pagar",
+      "sonreír",
+      "abrir",
+      "terminar",
+      "trabajar",
+      "sujetar",
+      "pensar",
+      "pertenecer"
+    ]
+  },
+  {
+    "texto": "sit",
+    "traduccion": "sentarse",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "sentarse",
+      "hacer",
+      "leer",
+      "llamar",
+      "esperar",
+      "terminar",
+      "llegar",
+      "preguntar",
+      "gustar",
+      "tocar"
+    ]
+  },
+  {
+    "texto": "sleep",
+    "traduccion": "dormir",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "dormir",
+      "tomar",
+      "sujetar",
+      "hablar",
+      "pagar",
+      "sentarse",
+      "querer",
+      "comprar",
+      "parar",
+      "empezar"
+    ]
+  },
+  {
+    "texto": "speak",
+    "traduccion": "hablar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "hablar",
+      "dormir",
+      "abrir",
+      "hacer",
+      "elegir",
+      "tomar",
+      "ayudar",
+      "llamar",
+      "sentarse",
+      "esperar"
+    ]
+  },
+  {
+    "texto": "study",
+    "traduccion": "estudiar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "estudiar",
+      "esperar",
+      "reír",
+      "leer",
+      "pedir",
+      "cantar",
+      "apagar",
+      "venir",
+      "aprender",
+      "desear"
+    ]
+  },
+  {
+    "texto": "take",
+    "traduccion": "tomar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "tomar",
+      "trabajar",
+      "mover",
+      "encender",
+      "cantar",
+      "escribir",
+      "ver",
+      "sentarse",
+      "jugar con",
+      "pertenecer"
+    ]
+  },
+  {
+    "texto": "talk",
+    "traduccion": "hablar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "hablar",
+      "comer",
+      "dormir",
+      "reír",
+      "venir",
+      "leer",
+      "abrir",
+      "saber",
+      "ver",
+      "viajar"
+    ]
+  },
+  {
+    "texto": "think",
+    "traduccion": "pensar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "pensar",
+      "ver",
+      "cantar",
+      "elegir",
+      "sujetar",
+      "comprar",
+      "limpiar",
+      "tener",
+      "venir",
+      "abrir"
+    ]
+  },
+  {
+    "texto": "travel",
+    "traduccion": "viajar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "viajar",
+      "terminar",
+      "encender",
+      "ir",
+      "hacer",
+      "comprar",
+      "escribir",
+      "encontrar",
+      "recordar",
+      "pertenecer"
+    ]
+  },
+  {
+    "texto": "want",
+    "traduccion": "querer",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "querer",
+      "oír",
+      "sujetar",
+      "comprar",
+      "aprender",
+      "apagar",
+      "jugar con",
+      "tener",
+      "llamar",
+      "escribir"
+    ]
+  },
+  {
+    "texto": "work",
+    "traduccion": "trabajar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "trabajar",
+      "apagar",
+      "ser/estar",
+      "poder",
+      "pertenecer",
+      "dormir",
+      "querer",
+      "comer",
+      "viajar",
+      "llamar"
+    ]
+  },
+  {
+    "texto": "write",
+    "traduccion": "escribir",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "escribir",
+      "encender",
+      "mirar",
+      "correr",
+      "comer",
+      "jugar con",
+      "pagar",
+      "querer",
+      "hacer",
+      "hablar"
+    ]
+  },
+  {
+    "texto": "run",
+    "traduccion": "correr",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "correr",
+      "comer",
+      "sentarse",
+      "escribir",
+      "tomar",
+      "vivir",
+      "esperar",
+      "encontrar",
+      "ir",
+      "elegir"
+    ]
+  },
+  {
+    "texto": "buy",
+    "traduccion": "comprar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "comprar",
+      "mirar",
+      "ayudar",
+      "desear",
+      "saber",
+      "pertenecer",
+      "tener",
+      "viajar",
+      "reír",
+      "sonreír"
+    ]
+  },
+  {
+    "texto": "find",
+    "traduccion": "encontrar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "encontrar",
+      "reír",
+      "oír",
+      "dormir",
+      "encender",
+      "elegir",
+      "llamar",
+      "sujetar",
+      "tocar",
+      "aprender"
+    ]
+  },
+  {
+    "texto": "clean",
+    "traduccion": "limpiar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "limpiar",
+      "parar",
+      "venir",
+      "oír",
+      "mirar",
+      "viajar",
+      "pertenecer",
+      "pagar",
+      "correr",
+      "encender"
+    ]
+  },
+  {
+    "texto": "remember",
+    "traduccion": "recordar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "recordar",
+      "terminar",
+      "saber",
+      "desear",
+      "elegir",
+      "trabajar",
+      "llegar",
+      "ir",
+      "pertenecer",
+      "limpiar"
+    ]
+  },
+  {
+    "texto": "stop",
+    "traduccion": "parar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "parar",
+      "viajar",
+      "poder",
+      "leer",
+      "saber",
+      "aprender",
+      "correr",
+      "preguntar",
+      "llamar",
+      "comprar"
+    ]
+  },
+  {
+    "texto": "learn",
+    "traduccion": "aprender",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "aprender",
+      "recordar",
+      "sujetar",
+      "comer",
+      "poder",
+      "reír",
+      "llegar",
+      "sentarse",
+      "abrir",
+      "ser/estar"
+    ]
+  },
+  {
+    "texto": "arrive",
+    "traduccion": "llegar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "llegar",
+      "vivir",
+      "jugar",
+      "llamar",
+      "comer",
+      "mirar",
+      "sonreír",
+      "sujetar",
+      "aprender",
+      "ver"
+    ]
+  },
+  {
+    "texto": "turn off",
+    "traduccion": "apagar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "apagar",
+      "elegir",
+      "tocar",
+      "vivir",
+      "jugar",
+      "ser/estar",
+      "cantar",
+      "pagar",
+      "trabajar",
+      "llamar"
+    ]
+  },
+  {
+    "texto": "turn on",
+    "traduccion": "encender",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "encender",
+      "apagar",
+      "leer",
+      "preguntar",
+      "correr",
+      "tomar",
+      "pertenecer",
+      "pagar",
+      "jugar",
+      "comprar"
+    ]
+  },
+  {
+    "texto": "ask for",
+    "traduccion": "pedir",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "pedir",
+      "beber",
+      "dormir",
+      "leer",
+      "apagar",
+      "pensar",
+      "llamar",
+      "comprar",
+      "empezar",
+      "comer"
+    ]
+  },
+  {
+    "texto": "hold",
+    "traduccion": "sujetar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "sujetar",
+      "encender",
+      "parar",
+      "hablar",
+      "llegar",
+      "tomar",
+      "ser/estar",
+      "terminar",
+      "ver",
+      "sentarse"
+    ]
+  },
+  {
+    "texto": "wait",
+    "traduccion": "esperar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "esperar",
+      "ser/estar",
+      "comer",
+      "hacer",
+      "ir",
+      "dormir",
+      "oír",
+      "limpiar",
+      "pertenecer",
+      "pedir"
+    ]
+  },
+  {
+    "texto": "wish",
+    "traduccion": "desear",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "desear",
+      "recordar",
+      "encontrar",
+      "dormir",
+      "leer",
+      "llamar",
+      "poder",
+      "cantar",
+      "esperar",
+      "reír"
+    ]
+  },
+  {
+    "texto": "belong",
+    "traduccion": "pertenecer",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "pertenecer",
+      "comprar",
+      "hablar",
+      "vivir",
+      "encender",
+      "pagar",
+      "dormir",
+      "gustar",
+      "abrir",
+      "encontrar"
+    ]
+  },
+  {
+    "texto": "borrow",
+    "traduccion": "pedir prestado",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "pedir prestado",
+      "llamar",
+      "esperar",
+      "poder",
+      "ayudar",
+      "encender",
+      "venir",
+      "elegir",
+      "pagar",
+      "correr"
+    ]
+  },
+  {
+    "texto": "choose",
+    "traduccion": "elegir",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "elegir",
+      "pedir prestado",
+      "estudiar",
+      "empezar",
+      "gustar",
+      "ir",
+      "vivir",
+      "reír",
+      "terminar",
+      "llegar"
+    ]
+  },
+  {
+    "texto": "pay",
+    "traduccion": "pagar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "pagar",
+      "sujetar",
+      "mirar",
+      "pedir",
+      "trabajar",
+      "llamar",
+      "comprar",
+      "ayudar",
+      "pedir prestado",
+      "escribir"
+    ]
+  },
+  {
+    "texto": "start",
+    "traduccion": "empezar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "empezar",
+      "viajar",
+      "vivir",
+      "comprar",
+      "hablar",
+      "limpiar",
+      "encontrar",
+      "sujetar",
+      "tomar",
+      "tocar"
+    ]
+  },
+  {
+    "texto": "finish",
+    "traduccion": "terminar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "terminar",
+      "cantar",
+      "llegar",
+      "recordar",
+      "dormir",
+      "encender",
+      "apagar",
+      "aprender",
+      "sujetar",
+      "comprar"
+    ]
+  },
+  {
+    "texto": "smile",
+    "traduccion": "sonreír",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "sonreír",
+      "preguntar",
+      "encender",
+      "llamar",
+      "estudiar",
+      "esperar",
+      "elegir",
+      "viajar",
+      "recordar",
+      "sujetar"
+    ]
+  },
+  {
+    "texto": "laugh",
+    "traduccion": "reír",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "reír",
+      "hablar",
+      "pedir prestado",
+      "estudiar",
+      "pedir",
+      "esperar",
+      "empezar",
+      "comer",
+      "mover",
+      "cantar"
+    ]
+  },
+  {
+    "texto": "touch",
+    "traduccion": "tocar",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "tocar",
+      "pagar",
+      "cantar",
+      "mover",
+      "jugar",
+      "parar",
+      "pensar",
+      "ver",
+      "esperar",
+      "preguntar"
+    ]
+  },
+  {
+    "texto": "move",
+    "traduccion": "mover",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "mover",
+      "sonreír",
+      "recordar",
+      "comprar",
+      "aprender",
+      "cantar",
+      "pagar",
+      "pertenecer",
+      "leer",
+      "apagar"
+    ]
+  },
+  {
+    "texto": "watch",
+    "traduccion": "ver",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "ver",
+      "saber",
+      "limpiar",
+      "aprender",
+      "gustar",
+      "mover",
+      "correr",
+      "empezar",
+      "encontrar",
+      "abrir"
+    ]
+  },
+  {
+    "texto": "play with",
+    "traduccion": "jugar con",
+    "categoria": "Verbos / A1",
+    "opciones": [
+      "jugar con",
+      "recordar",
+      "mirar",
+      "escribir",
+      "pedir",
+      "terminar",
+      "parar",
+      "pertenecer",
+      "tocar",
+      "sentarse"
+    ]
+  }
+]

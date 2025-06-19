@@ -1,0 +1,1022 @@
+[
+  {
+    "texto": "ask",
+    "traduccion": "preguntar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "preguntar",
+      "vivir",
+      "hacer",
+      "pertenecer",
+      "viajar",
+      "beber",
+      "ser/estar",
+      "empezar",
+      "comer",
+      "aprender"
+    ]
+  },
+  {
+    "texto": "be",
+    "traduccion": "ser/estar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "ser/estar",
+      "estudiar",
+      "encontrar",
+      "sentarse",
+      "ayudar",
+      "tocar",
+      "tener",
+      "pedir prestado",
+      "limpiar",
+      "pedir"
+    ]
+  },
+  {
+    "texto": "call",
+    "traduccion": "llamar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "llamar",
+      "llegar",
+      "terminar",
+      "dormir",
+      "pedir prestado",
+      "poder",
+      "encontrar",
+      "cantar",
+      "aprender",
+      "querer"
+    ]
+  },
+  {
+    "texto": "can",
+    "traduccion": "poder",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "poder",
+      "gustar",
+      "llegar",
+      "elegir",
+      "jugar con",
+      "estudiar",
+      "cantar",
+      "recordar",
+      "desear",
+      "sentarse"
+    ]
+  },
+  {
+    "texto": "come",
+    "traduccion": "venir",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "venir",
+      "limpiar",
+      "dormir",
+      "recordar",
+      "correr",
+      "encontrar",
+      "poder",
+      "apagar",
+      "trabajar",
+      "hacer"
+    ]
+  },
+  {
+    "texto": "do",
+    "traduccion": "hacer",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "hacer",
+      "vivir",
+      "sujetar",
+      "venir",
+      "tener",
+      "elegir",
+      "parar",
+      "pedir prestado",
+      "mover",
+      "llamar"
+    ]
+  },
+  {
+    "texto": "drink",
+    "traduccion": "beber",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "beber",
+      "ver",
+      "hacer",
+      "ser/estar",
+      "estudiar",
+      "hablar",
+      "pedir",
+      "trabajar",
+      "elegir",
+      "jugar con"
+    ]
+  },
+  {
+    "texto": "eat",
+    "traduccion": "comer",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "comer",
+      "correr",
+      "viajar",
+      "jugar con",
+      "tocar",
+      "vivir",
+      "elegir",
+      "desear",
+      "parar",
+      "dormir"
+    ]
+  },
+  {
+    "texto": "go",
+    "traduccion": "ir",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "ir",
+      "ver",
+      "reír",
+      "tener",
+      "preguntar",
+      "abrir",
+      "dormir",
+      "jugar",
+      "querer",
+      "recordar"
+    ]
+  },
+  {
+    "texto": "have",
+    "traduccion": "tener",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "tener",
+      "terminar",
+      "comer",
+      "pertenecer",
+      "mirar",
+      "cantar",
+      "tomar",
+      "sonreír",
+      "parar",
+      "vivir"
+    ]
+  },
+  {
+    "texto": "hear",
+    "traduccion": "oír",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "oír",
+      "aprender",
+      "mirar",
+      "pagar",
+      "trabajar",
+      "viajar",
+      "correr",
+      "comer",
+      "apagar",
+      "ayudar"
+    ]
+  },
+  {
+    "texto": "help",
+    "traduccion": "ayudar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "ayudar",
+      "elegir",
+      "sujetar",
+      "dormir",
+      "abrir",
+      "mirar",
+      "escribir",
+      "parar",
+      "pagar",
+      "ver"
+    ]
+  },
+  {
+    "texto": "know",
+    "traduccion": "saber",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "saber",
+      "dormir",
+      "leer",
+      "pagar",
+      "ir",
+      "comer",
+      "limpiar",
+      "sentarse",
+      "empezar",
+      "llegar"
+    ]
+  },
+  {
+    "texto": "like",
+    "traduccion": "gustar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "gustar",
+      "pensar",
+      "pedir prestado",
+      "ser/estar",
+      "escribir",
+      "pedir",
+      "leer",
+      "sentarse",
+      "aprender",
+      "desear"
+    ]
+  },
+  {
+    "texto": "live",
+    "traduccion": "vivir",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "vivir",
+      "desear",
+      "viajar",
+      "sujetar",
+      "comprar",
+      "recordar",
+      "parar",
+      "pertenecer",
+      "dormir",
+      "empezar"
+    ]
+  },
+  {
+    "texto": "look",
+    "traduccion": "mirar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "mirar",
+      "hacer",
+      "poder",
+      "pensar",
+      "pertenecer",
+      "reír",
+      "estudiar",
+      "encender",
+      "ayudar",
+      "jugar con"
+    ]
+  },
+  {
+    "texto": "make",
+    "traduccion": "hacer",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "hacer",
+      "empezar",
+      "hablar",
+      "encender",
+      "trabajar",
+      "oír",
+      "gustar",
+      "abrir",
+      "viajar",
+      "aprender"
+    ]
+  },
+  {
+    "texto": "meet",
+    "traduccion": "encontrar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "encontrar",
+      "parar",
+      "tomar",
+      "correr",
+      "ir",
+      "pedir",
+      "limpiar",
+      "hablar",
+      "venir",
+      "terminar"
+    ]
+  },
+  {
+    "texto": "open",
+    "traduccion": "abrir",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "abrir",
+      "pedir",
+      "gustar",
+      "apagar",
+      "dormir",
+      "encontrar",
+      "escribir",
+      "recordar",
+      "hablar",
+      "mover"
+    ]
+  },
+  {
+    "texto": "play",
+    "traduccion": "jugar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "jugar",
+      "sentarse",
+      "querer",
+      "correr",
+      "encontrar",
+      "parar",
+      "escribir",
+      "pagar",
+      "encender",
+      "reír"
+    ]
+  },
+  {
+    "texto": "read",
+    "traduccion": "leer",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "leer",
+      "correr",
+      "sentarse",
+      "llamar",
+      "pagar",
+      "sujetar",
+      "hablar",
+      "pedir",
+      "tener",
+      "pensar"
+    ]
+  },
+  {
+    "texto": "see",
+    "traduccion": "ver",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "ver",
+      "jugar",
+      "recordar",
+      "sonreír",
+      "terminar",
+      "dormir",
+      "saber",
+      "elegir",
+      "viajar",
+      "ayudar"
+    ]
+  },
+  {
+    "texto": "sing",
+    "traduccion": "cantar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "cantar",
+      "hablar",
+      "aprender",
+      "tocar",
+      "abrir",
+      "llamar",
+      "pensar",
+      "terminar",
+      "ir",
+      "comer"
+    ]
+  },
+  {
+    "texto": "sit",
+    "traduccion": "sentarse",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "sentarse",
+      "leer",
+      "vivir",
+      "gustar",
+      "oír",
+      "jugar con",
+      "parar",
+      "comer",
+      "encender",
+      "pertenecer"
+    ]
+  },
+  {
+    "texto": "sleep",
+    "traduccion": "dormir",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "dormir",
+      "estudiar",
+      "terminar",
+      "trabajar",
+      "comprar",
+      "apagar",
+      "pertenecer",
+      "sentarse",
+      "ver",
+      "parar"
+    ]
+  },
+  {
+    "texto": "speak",
+    "traduccion": "hablar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "hablar",
+      "pedir prestado",
+      "aprender",
+      "gustar",
+      "cantar",
+      "querer",
+      "recordar",
+      "beber",
+      "pagar",
+      "encender"
+    ]
+  },
+  {
+    "texto": "study",
+    "traduccion": "estudiar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "estudiar",
+      "vivir",
+      "llegar",
+      "elegir",
+      "empezar",
+      "apagar",
+      "mover",
+      "pertenecer",
+      "ver",
+      "recordar"
+    ]
+  },
+  {
+    "texto": "take",
+    "traduccion": "tomar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "tomar",
+      "mirar",
+      "hacer",
+      "encontrar",
+      "jugar con",
+      "gustar",
+      "elegir",
+      "estudiar",
+      "hablar",
+      "pedir"
+    ]
+  },
+  {
+    "texto": "talk",
+    "traduccion": "hablar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "hablar",
+      "escribir",
+      "abrir",
+      "ayudar",
+      "saber",
+      "desear",
+      "sujetar",
+      "viajar",
+      "sentarse",
+      "apagar"
+    ]
+  },
+  {
+    "texto": "think",
+    "traduccion": "pensar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "pensar",
+      "ir",
+      "reír",
+      "pedir prestado",
+      "terminar",
+      "limpiar",
+      "encender",
+      "ayudar",
+      "abrir",
+      "llegar"
+    ]
+  },
+  {
+    "texto": "travel",
+    "traduccion": "viajar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "viajar",
+      "encender",
+      "apagar",
+      "comer",
+      "pedir prestado",
+      "venir",
+      "mover",
+      "limpiar",
+      "llegar",
+      "dormir"
+    ]
+  },
+  {
+    "texto": "want",
+    "traduccion": "querer",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "querer",
+      "poder",
+      "encender",
+      "pedir prestado",
+      "llamar",
+      "ser/estar",
+      "ayudar",
+      "venir",
+      "recordar",
+      "sentarse"
+    ]
+  },
+  {
+    "texto": "work",
+    "traduccion": "trabajar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "trabajar",
+      "tener",
+      "terminar",
+      "desear",
+      "sentarse",
+      "oír",
+      "abrir",
+      "mirar",
+      "aprender",
+      "parar"
+    ]
+  },
+  {
+    "texto": "write",
+    "traduccion": "escribir",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "escribir",
+      "ir",
+      "jugar",
+      "saber",
+      "ser/estar",
+      "cantar",
+      "pagar",
+      "hablar",
+      "estudiar",
+      "encender"
+    ]
+  },
+  {
+    "texto": "run",
+    "traduccion": "correr",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "correr",
+      "ser/estar",
+      "abrir",
+      "elegir",
+      "pagar",
+      "apagar",
+      "cantar",
+      "aprender",
+      "mirar",
+      "jugar con"
+    ]
+  },
+  {
+    "texto": "buy",
+    "traduccion": "comprar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "comprar",
+      "empezar",
+      "hablar",
+      "venir",
+      "ver",
+      "encontrar",
+      "tocar",
+      "apagar",
+      "llegar",
+      "comer"
+    ]
+  },
+  {
+    "texto": "find",
+    "traduccion": "encontrar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "encontrar",
+      "trabajar",
+      "terminar",
+      "pedir",
+      "pensar",
+      "empezar",
+      "ser/estar",
+      "querer",
+      "mirar",
+      "gustar"
+    ]
+  },
+  {
+    "texto": "clean",
+    "traduccion": "limpiar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "limpiar",
+      "encontrar",
+      "querer",
+      "mirar",
+      "comprar",
+      "pedir",
+      "aprender",
+      "beber",
+      "pedir prestado",
+      "llegar"
+    ]
+  },
+  {
+    "texto": "remember",
+    "traduccion": "recordar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "recordar",
+      "desear",
+      "vivir",
+      "encontrar",
+      "sujetar",
+      "apagar",
+      "hablar",
+      "preguntar",
+      "sentarse",
+      "gustar"
+    ]
+  },
+  {
+    "texto": "stop",
+    "traduccion": "parar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "parar",
+      "leer",
+      "hacer",
+      "ser/estar",
+      "venir",
+      "pertenecer",
+      "terminar",
+      "saber",
+      "estudiar",
+      "mirar"
+    ]
+  },
+  {
+    "texto": "learn",
+    "traduccion": "aprender",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "aprender",
+      "jugar",
+      "encontrar",
+      "pedir prestado",
+      "poder",
+      "leer",
+      "ayudar",
+      "hablar",
+      "trabajar",
+      "encender"
+    ]
+  },
+  {
+    "texto": "arrive",
+    "traduccion": "llegar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "llegar",
+      "aprender",
+      "ayudar",
+      "pagar",
+      "empezar",
+      "beber",
+      "pertenecer",
+      "hacer",
+      "esperar",
+      "trabajar"
+    ]
+  },
+  {
+    "texto": "turn off",
+    "traduccion": "apagar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "apagar",
+      "oír",
+      "jugar",
+      "vivir",
+      "desear",
+      "limpiar",
+      "encender",
+      "mirar",
+      "poder",
+      "hablar"
+    ]
+  },
+  {
+    "texto": "turn on",
+    "traduccion": "encender",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "encender",
+      "ir",
+      "elegir",
+      "apagar",
+      "mirar",
+      "llegar",
+      "parar",
+      "viajar",
+      "terminar",
+      "sentarse"
+    ]
+  },
+  {
+    "texto": "ask for",
+    "traduccion": "pedir",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "pedir",
+      "llamar",
+      "saber",
+      "comprar",
+      "hacer",
+      "sujetar",
+      "encender",
+      "aprender",
+      "recordar",
+      "parar"
+    ]
+  },
+  {
+    "texto": "hold",
+    "traduccion": "sujetar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "sujetar",
+      "terminar",
+      "esperar",
+      "hablar",
+      "pertenecer",
+      "ayudar",
+      "empezar",
+      "comprar",
+      "encontrar",
+      "viajar"
+    ]
+  },
+  {
+    "texto": "wait",
+    "traduccion": "esperar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "esperar",
+      "encender",
+      "tocar",
+      "vivir",
+      "jugar con",
+      "apagar",
+      "ayudar",
+      "poder",
+      "cantar",
+      "hablar"
+    ]
+  },
+  {
+    "texto": "wish",
+    "traduccion": "desear",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "desear",
+      "venir",
+      "comer",
+      "pedir",
+      "encontrar",
+      "parar",
+      "ayudar",
+      "mover",
+      "correr",
+      "jugar"
+    ]
+  },
+  {
+    "texto": "belong",
+    "traduccion": "pertenecer",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "pertenecer",
+      "ser/estar",
+      "terminar",
+      "aprender",
+      "estudiar",
+      "empezar",
+      "querer",
+      "ir",
+      "saber",
+      "cantar"
+    ]
+  },
+  {
+    "texto": "borrow",
+    "traduccion": "pedir prestado",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "pedir prestado",
+      "comer",
+      "venir",
+      "leer",
+      "llegar",
+      "ver",
+      "escribir",
+      "querer",
+      "esperar",
+      "jugar con"
+    ]
+  },
+  {
+    "texto": "choose",
+    "traduccion": "elegir",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "elegir",
+      "llamar",
+      "tener",
+      "estudiar",
+      "limpiar",
+      "sujetar",
+      "pedir prestado",
+      "preguntar",
+      "pedir",
+      "sonreír"
+    ]
+  },
+  {
+    "texto": "pay",
+    "traduccion": "pagar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "pagar",
+      "llamar",
+      "jugar con",
+      "estudiar",
+      "recordar",
+      "mirar",
+      "tener",
+      "jugar",
+      "ir",
+      "ser/estar"
+    ]
+  },
+  {
+    "texto": "start",
+    "traduccion": "empezar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "empezar",
+      "llamar",
+      "comer",
+      "sentarse",
+      "pensar",
+      "mover",
+      "tomar",
+      "estudiar",
+      "venir",
+      "reír"
+    ]
+  },
+  {
+    "texto": "finish",
+    "traduccion": "terminar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "terminar",
+      "sentarse",
+      "poder",
+      "comprar",
+      "aprender",
+      "vivir",
+      "jugar con",
+      "tomar",
+      "trabajar",
+      "escribir"
+    ]
+  },
+  {
+    "texto": "smile",
+    "traduccion": "sonreír",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "sonreír",
+      "encender",
+      "querer",
+      "venir",
+      "empezar",
+      "tocar",
+      "pedir",
+      "recordar",
+      "dormir",
+      "trabajar"
+    ]
+  },
+  {
+    "texto": "laugh",
+    "traduccion": "reír",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "reír",
+      "ser/estar",
+      "jugar con",
+      "dormir",
+      "correr",
+      "limpiar",
+      "ir",
+      "sujetar",
+      "mover",
+      "comer"
+    ]
+  },
+  {
+    "texto": "touch",
+    "traduccion": "tocar",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "tocar",
+      "oír",
+      "estudiar",
+      "ser/estar",
+      "pedir",
+      "parar",
+      "abrir",
+      "reír",
+      "sentarse",
+      "poder"
+    ]
+  },
+  {
+    "texto": "move",
+    "traduccion": "mover",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "mover",
+      "esperar",
+      "sonreír",
+      "abrir",
+      "pedir prestado",
+      "encontrar",
+      "correr",
+      "dormir",
+      "llegar",
+      "parar"
+    ]
+  },
+  {
+    "texto": "watch",
+    "traduccion": "ver",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "ver",
+      "elegir",
+      "querer",
+      "apagar",
+      "mirar",
+      "tocar",
+      "correr",
+      "parar",
+      "oír",
+      "recordar"
+    ]
+  },
+  {
+    "texto": "play with",
+    "traduccion": "jugar con",
+    "categoria": "Sustantivos / Living Room",
+    "opciones": [
+      "jugar con",
+      "correr",
+      "pagar",
+      "sonreír",
+      "limpiar",
+      "ver",
+      "tomar",
+      "ir",
+      "desear",
+      "pedir"
+    ]
+  }
+]
